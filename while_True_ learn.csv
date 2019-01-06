@@ -1,0 +1,2208 @@
+#Key;en;fr
+ShortStoreDescription;You’re a machine learning specialist who makes neural networks but your cat seems to be better at it. Now you must solve puzzles to build a cat-to-human translation system (who knows what else this cat is capable of!). Earn a fortune, buy kickass cat outfits and learn how machine learning really works!;Vous êtes un specialiste en apprentissage automatique qui fabrique des réseaux neuronaux mais votre chat semble y arriver mieux que vous. Vous devez maintenant résoudre des puzzles pour concevoir un système de traduction chat vers humain (qui sait de quoi ce chat est encore capable !). Gagnez un tas d'argent, achetez des tenues de chats et apprenez comment marche vraiment l'apprentissage automatique !
+FullStoreDescription;"[b]IMPORTANT NOTE[/b] Please take a look at the Early Access section, you'll find future plans, current state description and a story behind the game.\n[h2][b]ABOUT THE GAME[/b][/h2]\n\n[b]while True: learn()[/b] is a puzzle/simulation game about even more puzzling stuff: machine learning, neural networks, big data and AI. But most importantly, it’s about understanding your cat.\n\nIn this game, you play as a coder who accidentally found out that their cat is extremely good at coding, but not as good at speaking human language. Now this coder (it’s you!) must learn all there is to know about machine learning and use visual programming to build a cat-to-human speech recognition system.\n\n[h2][b]Learn how machine learning works in real life[/b][/h2]\n[img]{STEAM_APP_IMAGE}/extras/g_learn.png[/img]\nThe game is loosely based on real-life machine learning technologies: from goofy Expert Systems to mighty Recurrent Neural Networks, capable of predicting the future. Don’t worry: it all plays out as a puzzle game. No coding experience required`\n\n[h2][b]Train yourself into a data science wizard! [/b][/h2]\n[img]{STEAM_APP_IMAGE}/extras/g_build.png[/img]\nDrag objects around your screen with a mouse! Connect them with lines (oh yeah)! Try. Fail. Optimize. Try again. Then press “Release” button and see that sweet pieces of data flow smoothly through your screen.\n[h2][b]Embrace an adventurous lifestyle of a machine learning specialist! [/b][/h2]\n\n[img]{STEAM_APP_IMAGE}/extras/g_tree.png[/img]\nDesigning a groundbreaking technology requires time, experience and money. That means you’ll have to work as a freelancer, with all the excitement that comes along with it. Receive emails! Accept contracts! Sit alone in a dark room for days without saying a single word! Socialize on forums! That’s what real data scientists do!\n\n\n[h2][b]Coding just got real![/b][/h2]\n[img]{STEAM_APP_IMAGE}/extras/g_startup.png[/img]\nOur quests are based on actual problems, solved by machine learning. This includes building a self-driving car (with your cat as a pilot). And if you really want to test your programming might, you can become a CTO of a startup: it’s your skills and your schemes against the savage laws of the market! Earn a fortune, flip off your bosses and become a tech guru… Or lose everything and crawl back to the doorstep of HR department: at least it was worth trying, right?\n\n[h2][b]Improve your gear, improve your life![/b][/h2]\n[img]{STEAM_APP_IMAGE}/extras/g_catshop.png[/img]\nOnce you ensure a stable cashflow, you’ll be able to buy yourself a bunch of fancy hardware to improve your performance. But it’s not just about the hardware! Buy yourself a new smartphone or a geeky figurine! Buy fancy outfits for your cat! Hell, you can even buy yourself an aloe!\n\n[b]Fun fact:[/b] this is what machine learning specialists actually do. Now, you can become one of them (minus the money)! while True: learn() is the best game about being a data science specialist because no one else has been weird enough to make another one!";
+@cat.meow;@cat.meow;@chat.miaou
+?HECKSTYLE;Hi. I am a big fan of a very famous writer. But I think his last book was auto-generated. Can you check that out?;Salut. Je suis un(e) grand(e) fan d'un célèbre écrivain. Mais je pense que son dernier livre a été auto-généré. Pourriez-vous vérifier ça ? 
+?HECKSTYLET;Algorithm for checking the match of text styles;Algorithme pour verifier la correspondance des styles d'écriture
+ACC.;Acc;Acc.
+ACCEPT;Accept;Accepter
+ACCEPT JOB;Proceed;Accepter le travail
+ACCEPTDEPLOYTEXT;This action requires renting servers.\nAre you sure you're ready to launch it??;Cette action nécessite de louer des serveurs.\n Voulez-vous la lancer ?
+ACCURACY;Accuracy;Précision
+ALL/G DIVIDE;Good afternoon!\n\nWe've just bought a stock of trees for the Holidays. Friends say that you can calculate the peak demand period for them?\n\nPlease, help us!;Bon après-midi !\n\nNous venons juste d'acheter un stock d'arbres pour les vacances. Des amis disent que vous pourriez calculer la période de plus haute demande pour eux.\n\nS'il vous plaît, aidez-nous !
+ALL/G DIVIDET;Sales prediction;Prédictions de ventes
+ANTIQ;Ancient Times 1936 - 1966;Antiquité 1936 - 1980
+APPSTAT;Good morning.\n\nOur scientific center needs help in the approximation of our observations.\n\nPlease extract as much information as you can.;Bonjour. \n\nNotre centre scientifique a besoin d'aide pour l'approximation de nos observations.\n\nVeuillez extraire autant d'informations que possible.
+APPSTATT;Statistical sample approximation;Estimation d'échantillon statistique
+ARE YOU SURE YOU WANT SPEND;Are you sure you want to spend;Êtes-vous sûr(e) de vouloir dépenser ?
+ATTENTIONDAY;This action skips one day;Cette action passe une journée
+ATTENTIONDAY2;Are you sure you want to do this?;Êtes-vous sûr(e) de vouloir faire ca ?
+ATTENTIONSTARTUP;This action deploys the code to the servers\n\nFrom this moment the startup will work automatically;
+AUDIENCE;Audience;Audience
+AV. DEST. TIME;Av. Dest. Time;Temps moyen de trajet
+AV. NET IDLE;Av. Net Idle;
+AV. NET OVERLOAD;Av. Net Overload;
+BACK;Back;Retour
+BASE BLOCKS;Base Nodes;Nœud de base
+BASIC;First Steps 1966 - 1998;Premières étapes 1980 - 1998
+BLOCKS;Nodes;Nœud
+BLOCKSSPEEDBONUS;Increases nodes work speed by;Augmente la vitesse de travail des noeuds de
+BLOCKSSPEEDPERCENT;Nodes speed :;Vitesse des noeuds
+bought;Bought;Acheté
+C/S/T FAST SORT;Good morning.\n\nWe have a scientific satellite that aggregates data from our geomagnetic researches. But we need to put it down and launch a new one to the orbit.\nCan you help us extract and process the data from the old satellite?;Bonjour.\n\nNous avons un satellite scientifique qui enregistre les données provenant de nos recherches géomagnétiques. Mais nous devons le récupérer et en mettre un nouveau en orbite.\nPouvez-vous nous aider à extraire et exploiter les données contenues dans le vieux satellite ?
+C/S/T FAST SORTT;Fast data sorting;Classement rapide des données
+C/S/T MACHINE SORT;Hello.\nWe are representing a private military company. We train soldiers to behave adequately in various battle situations. We are in need of an algorithm that would pick an appropriate simulation for each soldier and adapt to their reflexes. This will help prepare soldiers for the difficulties of war, and reduce casualties to the minimum.;Salut.\nNous représentons une entreprise militaire privée. Nous entraînons les soldats à reagir adéquatement à de nombreuses situations de combat. Nous avons besoin d'un algorithme qui choisirait une simulation appropriée à chaque soldat et s'adapterait à leurs réflexes. Ca aidera à preparer les soldats aux difficultés de la guerre, et à réduire le nombre de victimes au minimum.
+C/S/T MACHINE SORTT;The smart system for education and training;Le système intelligent pour l'education et l'entraînement
+C/T DIVIDE;Hey, please help me! Aliens want to kidnap me! I'm building a large station to watch the sky around my house, but the image recognition system does not work! I know that all the Martian ships have round shape and those from Venus are triangular! Please divide them into two classes! I must be prepared;Hé, s'il vous plaît aidez-moi ! Des aliens veulent me kidnapper ! Je construis une large station d'observation du ciel autour de ma maison, mais la reconnaissance d'image ne fonctionne pas. Je sais que tous les vaisseaux martiens ont une forme ronde et que ceux venant de Vénus sont triangulaires ! S'il vous plaît, séparez les en deux classes ! Je dois me prepa...
+C/T DIVIDET;UFO recognition system;Système de reconnaissance des OVNI
+CANCEL;Cancel;Annuler
+CAPSNET;Capsule neural network;Capsule réseau neuronal
+CAPSNETDESCR;More stable than convolutional network;Plus stable qu'un réseau convolutionnel
+CAPSNETSHOP;Capsule neural net;Capsule neurale
+CASH;Cash;Argent
+CAT HATS;Cat skins;Apparences de chat
+CAT-CLOUD :;Cat-cloud :;Chat-cloud
+CATHATS;Cat skins;Apparences de chat
+CHAINSPEEDPERCENT;Transfer time :;Temps de transfert :
+CHAINTIMEBONUS;Increases data transfer speed by;Augmente la vitesse de transfert de données de
+CHESSKASP;Hi.\n\nAs you may know, Gasparov is to compete with AI chess computer next month.\n\nCan you write a chess bot for training?;Bonjour.\n\nComme vous le savez peut-être, Gasparov doit concurrencer l'ordinateur d'échecs de l'IA le mois prochain.\n\nPouvez-vous écrire un robot d'échecs pour vous entraîner?
+CHESSKASPT;Chess bot for training Gasparov;Robot d'échecs pour entraîner Gasparov
+CLOSEPR;Hi.\n\nI have a clothing store and want to know how much money I might earn during Holiday sales.\n\nHelp me!;Bonjour.\n\nJ'ai un magasin de vêtements et je veux savoir combien d’argent je pourrais gagner pendant les soldes.\n\nAidez-moi!
+CLOSEPRT;Predicting the amount of sales for a clothing store;Prévoit le total des ventes pour un magasin de vêtements
+COMING SOON;Coming soon;Bientôt disponible
+COMPLETE;Complete;Complet
+CONGRATULATIONS;Congratulations!;Félicitations !
+CONTINUE;Continue;Continuer
+CONTINUE JOB;Continue;Continuer
+CONV;Convolutional neural network;Réseau de neurones convolutionnel
+CONVDESCR;Powerful instrument for image recognition;Instrument puissant pour la reconnaissance d'image
+CONVSHOP;Convolutional net;
+CRSIMSTYLE;Hello. I’m a very famous writer. A VERY lazy one, too. My fans really want me to write the next book of my “Song of Cold and Walkers” series ASAP. But all I want is to jump on a trampoline instead! Can you create a program which can write a book for me? Oh, and we need as many character deaths as possible in that book!;
+CRSIMSTYLET;Create a text with a similar style;Créer un texte avec un style similaire
+CUSTOM BLOCKS;Custom Nodes;Noeuds personnalisés
+CUSTOM BLOCKS HELP TITLE;Custom Nodes;Noeuds personnalisés
+CUSTOMHELP;You can re-use your schemes from earlier tasks in the next ones\n\nThese custom nodes don't spend time on transferring data\n\nYou can edit your custom schemes at any time: simply double click the right mouse button on them;Vous pouvez réutiliser les schémas que vous avez conçus pour les tâches précédentes.\n\Ces noeuds personnalisés ne dépensent pas de temps en transfer de données.\n\n A tout moment, vous pouvez éditer vos noeuds personnalisés : faites simplement un double-cli droit sur l'un d'eux.
+day;Day;Jour
+DECISION TREE COLOR HELP GAME;This node compares socket's colors with element's color and chooses the socket with a minimum amount of errors\n\nIf the element color is equal to only one socket's color then element moves to that socket\n\nIf element's color satisfies both conditions, or don't satisfy any conditions, then moves to the random socket;
+DECISION TREE COLOR HELP HISTORY;"Decision tree is one of the basic machine learning algorithms\n\nEach tree ""knows"" a limited number of classes\n\nWhen the decision tree gains an element, it ""asks"" the element some questions and chooses the class most similar to the element";
+DECISION TREE COLOR HELP TITLE;Decision tree: color;
+DECISION TREE SHAPE HELP GAME;This node compares socket's colors with element's color and chooses the socket with a minimum amount of errors\n\nIf the element color is equal to only one socket's color then element moves to that socket\n\nIf element's color satisfies both conditions, or don't satisfy any conditions, then moves to the random socket;
+DECISION TREE SHAPE HELP HISTORY;"Decision tree can use more complex dependencies\n\nFor example, each ""question"" may be a SIFT node, which is trying to find an ""eye"", ""mouth"", ""tail"" or ""wheel""\n\nAs a result, decision tree may detect a human, mouse or car on an image";
+DECISION TREE SHAPE HELP TITLE;Decision tree shape;
+DEEPL;Deep machine learning 2012 - nowadays;
+DEFAULTCAT;-;-
+delay;Work time;Temps de travail
+DELETE;Delete;Supprimer
+deploy;Deploy;
+DEPLOY RUN :;Release run :;
+DON'T SHOW NEXT TIME;Don't show next time;Ne plus afficher
+done;Accept;Accepter
+DUPLICATOR HELP GAME;This node creates several copies of the element;
+DUPLICATOR HELP HISTORY;One of the steps in genetic algorithm \n\n creates clones of a given object \n \n it helps to train algorithm faster;
+DUPLICATOR HELP TITLE;Duplicator;
+emptymail;Inbox empty;
+ENDWIN;Thanks for finishing the game!\nLet's keep in touch: we might be adding new levels and other stuff to the game. Subscribe to <color=#ffbd18>luden.io</color>,<color=#ffbd18> twitter.Com/luden_io</color>, <color=#ffbd18>twitter.com/whiletruegame</color> and stay tuned for more info!;
+EPOCH;Epoch;Époque
+error;Attention;Erreur
+ESTCOST;Hello. I want to sell my flat, but don't know how much money it really costs.;Salut. Je veux vendre mon appartement, mais je ne sais pas combien il vaut vraiment.
+ESTCOSTT;Estimation of the cost of an apartment;Estimation du prix d'un appartement
+estimated cost;Estimated cost;Prix estimé
+EVOLVE;Evolve;
+EVOLVER;Hello. We are writing to you from our scientific laboratory.\nWe want to launch a scientific startup!\n\nWe need a programmer who can write a small part of it - an optimization library which will be using a genetic algorithm.;
+EVOLVERT;Evolver;
+exit;Back;Retour
+FAILED;Failed;Échec
+FALLOUT;Wasteland helmet;
+FALLOUTDESCR;Courier's outfit;
+FAST R MACHINE;Good day. We are engaged in repair and maintenance of aircrafts. We need to be able to predict all possible problems which can happen in the air.\n\nCan you craft an algorithm that would do it for us?;
+FAST R MACHINET;Control system error;
+FAST TEXT COPY;Hello. We are the developers of the while True: lean() game and we've made this task especially for you. Our game will be released on Steam soon, so we must write a short description of our game! You need to create a program that auto-generates small texts that can match the game's description.\nPlease do it as fast as you can, it helps us creating a wonderful game!;
+FAST TEXT COPYT;Description generator;
+FDP;Tovarisch, you were selected to create face recognition system for the KGB. Be proud of it. The deadline is tomorrow. This message will self-destruct upon reading.;
+FDPT;Face recognition from a photo;
+FILMMARK;Hello. This message is from the ?sgar committee.\n\nWe want to replace some of our experts with a neural network. Please design a system that could rate  movies by their type.\nThanks.;
+FILMMARKT;Automatic movie rater;
+FIRST PAYMENT;First payment;
+FIRST PERCEPTRON;Good morning, tovarish!\n\nWe know that someone from the USA created a system which can recognize the alphabet.\n\nYou must create a copy of that system for the KGB! The handwriting of the USA spies is awful.;
+FIRST PERCEPTRONT;Alphabet recognition system;
+FIX;Hello.\n\nWe have some errors in our questionnaires data. We can't solve the problem by ourselves...\n\nCan you please fix it?;
+FIX2;Hello, it's us again!\n\nWe found some new types of errors made by our users. Please, update your program.\n\nIt will be easier if you will use the previous version of the code.;
+FIX2T;Errors in database #2; Erreur dans la base de données #2
+FIX3;Hi. It's us again! \n\nWe hope it's our last request for you. We've changed our database system. Can you update your code one last time? We need it to work faster.\n\nThanks.;
+FIX3T;Optimization of the code;Optimisation du code
+FIXT;Errors in database;Erreur dans la base de données
+FREESOCKETS;In this task all sockets (with incoming and outgoing data) must be connected;
+FRIEND;Hey, what's up buddy! How are you?\nListen, I know I wasn't paying you for quite a long time. And I'm very grateful that you wasn't demanding your paycheck for so long. But to be in debt, even to a friend, is not cool at all, right? Therefore, take this money you've honestly earned! Thank you, friend! You've really helped me out. Yeah, and how about we go to a concert next week?;
+FRIENDT;A letter from a friend;Une lettre d'un ami
+GAN;GAN;
+GANDESCR;Can create everything;Peut tout créer
+GANSHOP;GAN;
+GENETIC;First victories 1998 - 2006;Premières victoires 1998 - 2006
+GENETIC DECISION;Genetic solver;
+GENETIC DIVIDE 2;Hey there. You know, I’m a big gambler. I'm going to Vegas next week and hopefully I'll make some money. Did I say 'some'?\n\nI meant to say HUGE money. I need you to write some code, or whatever you do there, and predict all the ways to win in roulette. If you do everything right, 5% of whatever I score is yours. Can you handle it? Please find some related data enclosed.;
+GENETIC DIVIDE 2T;Prediction of winnings in a casino;Prédictions de gains dans un casino
+GENETIC EVOLUTION ALGORITHM HELP GAME;"Train model in test run, until the ""evolve"" button does not light up \nThen click on it \n It creates ""clone"" with modified error (positive or negative)";
+GENETIC EVOLUTION ALGORITHM HELP HISTORY;"One of the most powerful self-learning non-neural algorithms \n \n It simulates biological evolution process (proliferation, mutation, extinction) \n \nOnly solutions which close to optimum ""survive""";
+GENETIC EVOLUTION ALGORITHM HELP TITLE;Genetic solver;
+GOOD LUCK AND HAVE FUN!;Good luck and have fun!;Bonne chance et amusez-vous bien !
+GOOGLECAT;Qoogle glasses;Qoogle glasses
+GOOGLECATDESCR;Looks innovative;
+GRADIENT DESCENT;Gradient descent;
+GRADIENT DESCENT HELP GAME;Each element in the game has a small error-fix value\n\nThis block increases this value\n\n<color=#ffbd18>This node isn't working in release run</color>;
+GRADIENT DESCENT HELP HISTORY;"Gradient descent is one of the basic algorithms which can train models (not only neural networks)\n\nGradient descent calculates ""gradient"" of all objects and ""steps"" closer to the target answer for the task\n\n It takes a lot of time";
+GRADIENT DESCENT HELP TEXT;Gradient descent;
+HARDWARE;Hardware;
+HELLO, FRIEND!;Hello, friend!;Salut, mon ami !
+HIDEBOUGHT;Hide purchased items;Masquer les articles achetés
+IF COLOR HELP GAME;This node compares colors\n\nIf the color of the element is equal to the chosen color, the element comes into the top socket \n \n Others go to the bottom socket;
+IF COLOR HELP HISTORY;"Before the invention of self-learning algorithms people used expert systems\n\nThese algorithms tried to use hardcoded comparisons similar to human ""experts"" decisions \n \n It worked terribly";
+IF COLOR HELP TITLE;Expert system;
+IN GAME;In game;En jeu
+in progress;In progress;En progression
+IN REAL WORLD;In real world;Dans la réalité
+INCREASE ERROR REDUCING SPEED;Increase error reducing speed;
+INTROTEXT;This is a tycoon game that will give you an opportunity to take the role of a machine learning specialist and evolve from a rookie to a professional.\n\nWe hope that our game will help you understand machine learning better.;
+INTROTEXT2;You can write us if you have any questions: \n<color=#ffbd18>info@luden.Io</color>\nfollow us on twitter :\n<color=#ffbd18>@whiletruegame</color>;
+INTROTEXT3;Welcome to the game;
+INTROTEXT4;This a just game. Please don’t try to actually write programs with it. If you do, we admire your bravery!;
+IT WILL COST;That'll cost;Cela coûtera
+JACKPOT;"Hello!\nYou've registered in the prize-winning lottery ""PrizePool""\nWe're happy to let you know that your registration number won in our last drawing!\nCongratulations!\nThe money will be sent to the bank account stated during registration.";
+JACKPOTT;Mail from lottery;Mail de la loterie
+KILLER;Towel;Serviette
+KILLERDESCR;Looks like a priest robe;Ressemble à une robe de prêtre
+LAUNCH;Launch;Lancer
+LEARN SMTH NEW;C-Bay;C-Bay
+LOAD BALANCER HELP GAME;This block routes elements to the least overloaded socket\n\n<color=#ffbd18>Warning: this block requires additional server cost</color>;
+LOAD BALANCER HELP HISTORY;A load balancer is a device that distributes network or application traffic across a cluster of servers\n\nLoad balancing improves responsiveness and increases the availability of applications;
+LOAD BALANCER HELP TITLE;Load balancer;
+LOCKED;Locked;Verrouillé
+LOSEGAME;You’re bankrupt. Now you need to start from the checkpoint.\nBetter keep an eye on your funds next time!;Tu es en banqueroute. À présent tu dois recommencer au précédent checkpoint.\nIl vaudrait mieux garder un oeil sur tes fonds la prochaine fois!
+LSTM;LSTM;
+LSTMDESCR;Remembers more than a simple RNN;
+LSTMSHOP;LSTM;
+MACHINE SORT;Hello.\nWe need to build a smart system that can help students learn English faster. This system needs to be able to pick an apropriate curriculum for each student.\nCan you design something like it please?;
+MACHINE SORTT;Recommendation system;
+MARK-1 PERCEPTRON;MARK-1 Perceptron;MARK-1 Perceptron
+MARK-1 PERCEPTRON HELP GAME;In test run, perceptron reduces the amount of errors while trying to predict the shape of elements\n\nIn deploy run, perceptron only predicts shapes;
+MARK-1 PERCEPTRON HELP HISTORY;Rosenblatt's perceptron used in MARK-1\n\nThis perceptron could recognize only simple (linear) dependencies\n\nBut it was enough to recognize English letters;
+MARK-1 PERCEPTRON HELP TITLE;MARK-1 perceptron;MARK-1 Perceptron
+MARS;Hello.\n\nI own a space observation station. This year I've made quite a lot of photos. Now I need to process them in order to find Mars on them, which I it for my latest research.\nCan you help me with this task?;
+MARST;Observations of Mars;Observations de Mars
+MAXPROF;Hi. Can you predict when the Apocalypse will happen? We want to sell as many canned goods as possible, but we are afraid that people will not have much enthusiasm towards them, while the times are good.;
+MAXPROFT;Maximize sales profit;Optimiser le profit des ventes
+Memory;Memory;Mémoire
+MENU;Menu;Menu
+money;Money;Argent
+MONEY SPEND;Money spent;Argent dépensé
+MONEY TRANSFER RECEIVED;Money transfer received;Transfert d'argent reçu
+NAME;Good morning! We are running a big social survey in schools and we've encountered a problem. Our students often forget to mention their grade in the questionnaires. Can you divide pupils from junior and high school based on their test sheets?;
+NAMET;School problems;Problèmes scolaires
+NEURAL;Neural Networks 2006 - 2012;Réseaux neuronaux 2006 - 2012
+NEWSPAPER DEEP BODY;There are neural networks that solve the so-called “xor problem” (an unsolvable problem for Rosenblatt's perceptron). They have one “hidden” layer between the input and output layers. Such networks are called “non-deep”. \n \n If the network has more than one hidden layer, it is called “deep”. The deeper the network, the more complex dependencies it is able to recognize. For example, the current image recognition networks include several thousand hidden layers. Amazing, isn't it?;
+NEWSPAPER DEEP TITLE;Deep neural nets;
+NEWSPAPER KASPAROV BODY;One of the greatest chess games of all time is, without a doubt, the battle between Garry Kasparov and the Deep Blue supercomputer by IBM i1997. The first game was very difficult and tense, Kasparov had an advantage at first, but starting from move 44, many believe that he ceased to understand the logic of the computer, and in the end, lost the entire game.;Une des meilleures parties d'échecs de tous les temps est, sans aucun doute, la bataille entre Garry Kasparov et Deep Blue, le super-ordinateur d'IBM i1997. La première partie a été très difficile et tendue, Kasparov avait un avantage au départ, mais à partir du 44ème mouvement, beaucoup pensent qu'il a cessé de comprendre la logique de l'ordinateur, et au final, il a perdu la partie.
+NEWSPAPER KASPAROV TITLE;World champion vs genetic algorithm;Champion du monde vs. algorithme génétique
+NEWSPAPER NEURON TYPE BODY;"In neural nets, programmers use a vast range of different neurons. Inside each neuron, a math function is located.\n\nFor example, Rosenblatt's neuron used a linear function. Simple neural net, which can solve ""xor problem"", uses ""relu"" function.\n\nThese functions are called ""activators"". For different tasks people use different activators which will be more suitable for certain cases. To solve more difficult issues, a combination of neurons with different activators is used.";
+NEWSPAPER NEURON TYPE TITLE;Neural networks architecture;
+NEWSPAPER NON-NEURAL EPOCH BODY;"Mankind has always been trying to create an artificial intelligence. Before the invention of neural networks, people used expert systems.\n\n An expert system is a deterministic algorithm, which reproduces decisions of a real person.\n\nAn example this is ""ELIZA"", the very first chat bot in the world. It was created in 1966, and ""talked"" with the patient using questions similar to real psychotherapist's.\n\nIt worked horribly.";
+NEWSPAPER NON-NEURAL EPOCH TITLE;Non-neural artificial intelligence;
+NEWSPAPER PERC FAILED BODY;"In 1969 Seymour Papert & Marvin Lee Minsky wrote a book called ""Perceptrons"". In this book they talk about math constraints of the first perceptrons. (XOR problem).\n\nThis book has shifted the scientific interest and funds distribution from the US Government organizations, slowing down the progression of machine learning for almost 30 years.\n\nThe expanded version of the book was released in 1987, containing the chapters that disproved the statements from the critical remarks made since 1969.";
+NEWSPAPER PERC FAILED TITLE;The Darkest Years of Machine Learning;Les années les plus sombres du Machine Learning
+NEWSPAPER RNN BODY;"In summer of 2017, a programmer named Zack Tutt created an RNN (Recurrent Neural Network), which predicts the events of george R. R. Martin's sixth book, ""The Winds of Winter"". \n \nThe neural network wrote the end of the story by analyzing the plot and style of the previous books. Chapters written by that program confirmed many fan theories.";
+NEWSPAPER RNN TITLE;A Book by a Recurrent Neural Network;
+NEWSPAPER ROSENBLATT'S PERCEPTRON BODY;First perceptron (machine neuron) was invented by Frank Rosenblatt in 1957\n\nFrank created MARK-1 in 1960\n\nMARK-1 is a perceptron machine that can recognize English letters by their shapes;
+NEWSPAPER ROSENBLATT'S PERCEPTRON TITLE;Rosenblatt's Perceptron;Perceptron de Rosenblatt
+NEXT JOB;Continue;Projet suivant
+NICKNAME :;Enter your Nickname:;Pseudo:
+no;No;Non
+NVIDIASHOP;Gvidia 250;Gvidia 250
+OCCUPANCY;Occupancy;
+OK;Ok;Ok
+ONLY R/R PARALLEL;Good morning. We're contacting you on behalf of Yahuus Corp.\n\nThe president of our partner venture has been dismissed last month and the Board of directors is in the process of electing a new one. We need to be able to predict who will win the election, so we could make a decision about the future of our partnership with said venture.\nMake it happen, and you will get a handsome reward.;
+ONLY R/R PARALLELT;Prediction of president elections;Prédiction des élections présidentielles
+ONLY SQUARE;Hello.\nOur post office desperately needs your help! We have too many letters incoming from a number of countries. We need to sort them by postage stamps: square-shaped - from Europe, round - from Asia. At this moment, we only need letters from Europe, can you make it happen? We need it desperately!;
+ONLY SQUARE 60%;Good morning. We work for a construction company. We need to ensure that the windows we want to install are designed accurately.\n\nPlease create a program for smartphones that could proof-check our designs for potential mistakes.;
+ONLY SQUARE 60%T;Photo parsing instrument for a construction company;
+ONLY SQUARET;Shape recognition;Reconnaissance de forme
+ONLY TRIANGLE;Good day. I study ancient manuscripts and books in order to figure out the true story behing the Illuminati secret society.\n\nI need to recognize all the triangle shapes in these documents to solve the puzzle.\n\nCould you design a program that would do that for me?;
+ONLY TRIANGLET;Illuminati origins;
+ORT;Hello.\n\nWe are repairing the road surface in our city every day. Not surprisingly, it generates some problems with the road traffic. We ask you to write a pathfinding system.\n\nThanks.;
+ORTT;Optimize roadway traffic;Optimisation des feux de traffic routiers
+OUTPUTS;Outputs;Sorties
+OVERLOAD;Overload;
+PARENTS;Hello, dear.\n\nWe remember how you cherish your financial independence, but come on, your B-day is just around the corner! Be a good kid and take this money and buy yourself something nice, will you? We love you very much and we miss you.\n\nP.S. Do not forget to put a hat on. It's very cold outside.;
+PARENTST;A Letter from Mom and Dad;Une lettre de maman et papa
+PERCEPTRON COLOR HELP GAME;While in test run, the perceptron reduces the amount of errors trying to predict the color of the elements \n \n In deploy run, the perceptron only predicts colors;
+PERCEPTRON COLOR HELP HISTORY;"Unlike Rosenblatt's perceptron, present-day perceptrons can predict more complex (non-linear) dependencies. \n \nMost common functions inside the perceptrons are ""tanh"", ""relu"" and ""sigmoid"" \n \n Perceptrons are the basic elements of each neural network";
+PERCEPTRON COLOR HELP TITLE;Perceptron color;
+PERCEPTRON SHAPE HELP GAME;While in test run, the perceptron reduces the amount of errors trying to predict the color of the elements \n \n In deploy run, the perceptron only predicts colors;
+PERCEPTRON SHAPE HELP HISTORY;"Unlike Rosenblatt's perceptron, present-day perceptrons can predict more complex (non-linear) dependencies. \n \nMost common functions inside the perceptrons are ""tanh"", ""relu"" and ""sigmoid"" \n \n Perceptrons are the basic elements of each neural network";
+PERCEPTRON SHAPE HELP TITLE;Perceptron shape;
+PLAYER;Player;Joueur
+PPE;Good morning.\n\nI need to know who to vote for. Can you predict the winner of the next presidential elections?\n\nI will send you a big database.;
+PPET;Predict president elections;Prédire les élections présidentielles
+PRETRAINED GENETIC;Good morning. Our research center helps extracting data from social surveys.\nWe are facing issues and chances are good, we won't make it by the deadline.\nPlease write a program that can extract as much information as fast as possible. If possible, make it self-learning, too.;
+PRETRAINED GENETICT;Genetic algorithm training;
+PROFIT;Profit;Profit
+QAS;My butler transformed into a synth. Please write a new one. I prefer someone like an aborigine from Robinson Crusoe.;Mon majordome s'est transformé en ... . Codez en un nouveau. Je préfererai quelqu'un comme un aborigène de Robinson Crusoé
+QAST;Question-answer system;Système de question-réponse
+R/G DIVIDE 50%;Good morning.\n\nWe are a scientific laboratory specializing in human behavior research. We need to extract the results of our last research from our equipment across the city. This is a very sensitive important information, so, please, be very accurate!;
+R/G DIVIDE 50%T;Human behavior research;Recherches sur le comportement humain
+R/G DIVIDE 75%;Good afternoon!\n\nWe represent the Money Bag bank. We want you to create a system for sorting candidates applying for loans. We believe that cold, soulless mind of the machine will help us save more money than our regular, empathy-corrupted human clerks.\nWe would very much appreciate it if you'd complete the task before the Holidays.;
+R/G DIVIDE 75%T;Client's solvency assessment;Estimation de la solvabilité du client
+R/G/B SORT;Good morning.\nWe have dozens of scientific equipment placed in protected areas for the sake of looking after the objects of national heritage. We're parsing info from our equipment on a daily basis and need to sort it depending on the color of the report. Can you make a program that will help us?;
+R/G/B SORTT;National heritage protective system;Système de protection de l'héritage national
+R/R PARALLEL;Hello! We represent a scientific center. Our current programs are underperforming. Can you parallelize our calculations?;
+R/R PARALLELT;Parallel calculations;Calculs parallèles
+R/R/R/R PARALLEL;Hey, our parallelization system broke after the last Doors OS upgrade.\n\nCan you fix it? It is a very big system, be careful!;
+R/R/R/R PARALLELT;Large parallel calculations;Grands calculs parallèles
+RAMSHOP;1 MB RAM;1 MB RAM
+RC/BT DIVIDE;Hello. The contents of this message is classified by the FBI.\n\nWe have received information that someone had created a face recognition system for the KGB. Now our agents are facing certain difficulties in their daily operations.\nWe need you to create a system that can surpass the KGB technologies.;
+RC/BT DIVIDET;Classified mail #648232;Mail classifié #648232
+RECURENT NEURAL NETWORK CELL HELP GAME;The node sockets are divided into 2 types: base nodes and memory nodes\n\nThe node tries to calculate the next element in the sequence using its previous predictions. \n\nRNN nodes can be connected in a common sequence where each next node uses the results of the previous node's prediction in its work.;
+RECURENT NEURAL NETWORK CELL HELP HIST;"This type of neural layer can remember some information about sequences of elements (letters for example)\n\nIt can ""reproduce"" the style of the given text and rewrite another one using this knowledge";
+RECURENT NEURAL NETWORK CELL HELP TITLE;Recurrent neural network layer;
+RED MACHINE;We've detected some dangerous asteroids in the space. Now we need to be able to predict their trajectories in order to avoid a potential catastrophe.\n\nWe need an algorithm to calculate that, and fast! Some of those space rocks may destroy the Moon!;
+RED MACHINET;Meteorite alarm;
+RELEASE AND CHECK;Release;Publier
+RELU;RELU;
+reset;Reset progress;Réinitialiser l'avancement
+RESET GAME;Reset game;Réinitialiser le jeu
+RESET GAME PROGRESS?;Reset game progress?;Réinitialiser le jeu ?
+RESTART GAME;Restart game;Redémarrer le jeu
+revenue :;Revenue :;Revenus :
+REWARD;Reward;Récompense
+REWARD :;Reward :;Récompense :
+REWORK;Rework;Retravailler
+REWRITE HELP;At any time you can get back to the previous tasks and rewrite the programs\n\nFor example, you may want to optimize them to better fit your current task\n\nRight click twice on a custom node to jump directly to the scheme;
+REWRITING PREVIOUS TASKS;Rewriting previous tasks;Réécrire les tâches précédentes
+RL;Reinforcement learning;
+RLDESCR;More effective than the genetic algorithm;
+RLSHOP;Reinforcement learning;
+RNN CELL;RNN layer;Couche RNN
+ROUTERSHOP;TP-GINK router;Router TP-GINK
+SAVE;Save;Sauvegarder
+SAVE AND EXIT;Save and exit;Sauvegarder et quitter
+SAVING;Saving;Sauvegarde
+SCHEME AUTOSAVED AS;Scheme autosaved as;
+SCIENTISTS;Scientists;Scientifiques
+score;Score;Résultat
+SEC;Sec;
+servers;Servers;Serveurs
+SERVERS COST;Servers cost;Coût des serveurs
+SERVERS USED;Servers used;Serveurs utilisés
+SERVERSCOSTBONUS;Decreases server cost by;Réduit le coût du serveur de 
+SERVERSCOSTPERCENT;Servers cost :;Coût des serveurs:
+SERVERSHOP;SERVERUS 2000;SERVERUS 2000
+SGRADIENT;Stochastic gradient descent;
+SGRADIENTDESCR;Works faster than gradient descent, but may increase error rate;
+SGRADIENTSHOP;Stoch. Gradient descent;
+SIFT HELP GAME;This block compares shapes\n\nIf the shape of an element matches the designated shape, the element goes to the top socket\n\nThe rest go to the bottom socket;
+SIFT HELP HISTORY;SIFT (scale-invariant feature transform) is one of the most powerful non-neural image recognition algorithm\n\nSIFT is very fast and is capable of recognizing simple objects and patterns;
+SIFT HELP TITLE;SIFT;
+SKYRIM;Viking helmet;Casque viking
+SKYRIMDESCR;Me-ow-meooooow;Mi-aou-miaoooou
+SLSEC;/ sec;
+SOCKETDEPTHBONUS;Increases sockets processing queue by;
+SOCKETDEPTHINTERFACE;Socket queue size :;
+SOON;Soon;Prochainement
+STARTUPAUTOSAVE;Startup prototype autosaved;
+STARTUPS;Startups;Start-ups
+STOCHASTIC GRADIENT DESCENT HELP GAME;Each element in the game has a small error-fix value\n\nThis node doubles the value\n\nUse it wisely\n\n<color=#ffbd18>This node isn't working in release run</color>;
+STOCHASTIC GRADIENT DESCENT HELP HISTORY;This algorithm is an upgrade of basic gradient descent\n\nsgt calculates gradient of random objects from the data\n\nIt works fast but may increase the amount of errors. SGD is typically used with a regular gradient descent;
+STOCHASTIC GRADIENT DESCENT HELP TITLE;Stochastic gradient descent;
+STOH. GRAD. DESCENT;Stoch. Grad. Descent;
+STOP;Stop;Stop
+SUCCESS;Success;Succès
+SUMMARY :;Summary :;Sommaire :
+SURE bankrupt;This action will delete the startup;Cette action va supprimer la start-up
+SURE bankrupt2;Are you sure you want to do this?;Es-tu sûre de vouloir faire ca ?
+T800;Cyborg;Cyborg
+T800DESCR;He needs your clothes your boots and catocycle;
+TAKE CASH;Take cash;Prendre l'argent
+TASK;Task;Tâche
+#TASK #;Task #;Tâche #
+TEST RUN;Test run;
+TEST RUN :;Test run :;
+THE APPROXIMATE ERROR CALCULATION;Approximate error calculation;
+TIME;Time;Temps
+TIME IS OVER;You ran out of time;Ton temps a expiré
+TIME SPEND;Time spent;Temps écoulé
+TRASHCAN HELP GAME;This node destroys elements;Ce noeud détruit des éléments
+TRASHCAN HELP HISTORY;Real data sets have a lot of errors\n\nFiltering out errors is a very important skill for all data scientists;
+TRASHCAN HELP TITLE;Trashcan;Poubelle
+UNLIMITED TIME;Unlimited time;Temps illimité
+UPGRADE BLOCKS;Upgrade nodes;
+users;Users;Utilisateurs
+VURUSCLAST;Alarm!\nA strange virus is killing people in Procyon city! We can't understand what type of virus is doing that!\nPlease help!\nThis message was sent to all programmers in the world.;
+VURUSCLASTT;Classification of viruses by type;
+WARNING;Warning;Avertissement
+WEEK;Week;Semaine
+Whilecoin bank;Catcash bank;Banque Chatcash
+WITCHER;Sneakers hunter;
+WITCHERDESCR;He hates portals;Il déteste les portails
+WORK;Job;Job
+WTLCAT;WTL VR;WTL RV
+WTLCATDESCR;Increases respect from the developers;Augmente le respect des développeurs
+YES;Yes;Oui
+You must add at least one block to the scheme;You must add at least one node to the scheme;
+Too much blocks in scheme;Too many nodes in the scheme for this task;
+TRASHCAN;Trashcan;Poubelle
+TRAIN;Train;Entrainer
+SURECANCELOFFER;This action will delete the startup offer;Cette action va detruire l'offre de start-up
+STUDENTS;Students;Étudiants
+GEEKS;Geeks;Geeks
+ARMY;Army;Armée
+SCHEME SAVED AS;Scheme saved as;
+STARTUPSAVE;Startup saved;Start-up sauvegardée
+TRAFFICFINDER;Hi!\nWe are trying to launch our self-driving taxi service. It is a very promising startup, but we have a problem. Our algorithm makes a lot of errors when it tries to recognize traffic lights signals. In result, the car sometimes moves instead of stopping.\nWe hope you can solve this problem. The code must be working very fast!;
+TRAFFICFINDERT;Self-driving car;
+EXTRABIGACCT;Counter-terrorist system;Système de contre-terrorisme
+EXTRABIGACC;Hello! We are envolved in military technology development and our latest project is growing into a small business. We are creating a terrorism prevention system for places with large concentrations of people. Terrorists carry weapons in disassembled form. We have already digitized a large number of weapons and their parts, but we need an algorithm for their recognition. Can you help us? We will take you to our team and pay you a percent of the profit for your services.;
+ENDGAMELOSE;You’re bankrupt. Now you need to start from checkpoint. Keep a better eye on the funds next time!;
+TRAFFICFINDERSHORTT;Self-driving car;
+EXTRABIGACCSHORTT;Antiterr. System;Système antiterr.
+EVOLVERSHORTT;Evolver;
+COMPANY;Company;Entreprise
+RANDOMFOREST HELP TITLE;Random forest;
+RANDOMFORESTSHOP;Random forest;
+RANDOMFORESTDESCR;A more complex structure than a decision tree, but it can recognize more classes;
+RANDOMFOREST HELP GAME;The node compares the color and the shape with each of the sockets and selects the one that has the least amount of errors.\n\nIf there are several matching sockets, a random one is selected.;
+RANDOMFOREST HELP HISTORY;"A random forest is a composition (ensemble) of several decision trees. In real-life tasks, the number of trees can reach up to several thousands. \n\nEach tree can distinguish several classes, but they were trained on different parameters and classify objects based on different characteristics. \n\nWhen a prediction is required, the forest ""demands"" the class from all trees and chooses the final by voting - as the most popular answer.";
+AMAZON;Good day to you, my name is Jeff. I own a small online bookstore. I need your help in choosing a logistics company depending on the buyer's region and type of the book ordered. I would love to automatize the process with the help of a special program, but I am not experienced in this sort of things. I offer you a share of sales which will be made with the help of your system.\nPlease note that the entire data needs to be processed.;
+AMAZONT;Gamazon;Gamazon
+AMAZONSHORTT;Gamazon;Gamazon
+SHAPE%;Good afternoon. We are offering you a contract on improving our country's border security system. Our cameras detect a lot of violators. We ask you to write a system that will determine the type of vehicle that criminals use and pass the violation protocol to the optimal checkpoint to react to the incident and arrest the trespassers. The most popular types of crossing the borders are: on foot, by car and via giant slingshot.;
+SHAPE%T;Border crossing control system;Système de contrôle de franchissement de frontière
+FIRST PERCEPTRON2;We are aware that you were able to create a text recognition system based on the Rosenblatt perceptron.\n\nWe need a similar system that would also be able to distinguish vowels from consonants.\n\nThis task is simpler, but more accuracy is required.;
+FIRST PERCEPTRON2T;Text recognition;Reconnaissance de texte
+R/B DIVIDE BLOCK;R/Else divide;R/Autre séparés
+WITHOUT BLUE BLOCK;Without blue;Sans bleu
+ONLY RED BLOCK;Only red;Rouge uniquement
+ONLY RED FAST BLOCK;Only red fast;Rouge uniquement rapide
+ONLY TRIANGLE BLOCK;Only triangle;Triangle uniquement
+FIRST PERCEPTRON BLOCK;Perceptron sorter;
+FIRST PERCEPTRON2 BLOCK;Perceptron sorter2;
+ALL/G DIVIDE BLOCK;All/G divide;Tout/V séparés
+R/R PARALLEL BLOCK;2-parallel;2 en parallèle
+R/R/R/R PARALLEL BLOCK;4-parallel;4 en parallèle
+ONLY R/R PARALLEL BLOCK;Only R/R parallel;
+WB/WG DIVIDE BLOCK;WB/WG divide;
+R/G/B SORT BLOCK;R/G/B sort;Tri R/V/B
+R/G/B QUICK SORT BLOCK;R/G/B quick sort;Tri R/V/B rapide
+R/G DIVIDE 50% BLOCK;R/G divide 50%;
+R/G DIVIDE 75% BLOCK;R/G divide 75%;
+SHAPE% BLOCK;Shape division;
+ONLY BLUE 80% BLOCK;Only blue 80%;Bleu uniquement 80%
+ONLY RED CIRCLE BLOCK;Only red circle;Cercle rouge uniquement
+PRETRAINED GENETIC BLOCK;Pretrained genetic;
+GENETIC DIVIDE BLOCK;Genetic divide;
+GENETIC DIVIDE 2 BLOCK;Genetic divide 2;
+C/T DIVIDE BLOCK;C/T divide;
+ONLY SQUARE 60% BLOCK;Only square 60%;Carré uniquement 60%
+RC 75% BLOCK;RC 75%;
+ONLY SQUARE BLOCK;Only square;
+C/S/T SORT BLOCK;C/S/T SORT;
+RC/BT DIVIDE BLOCK;RC/BT divide;
+C/S/T QUICK SORT BLOCK;C/S/T quick sort;
+C/S/T MACHINE SORT BLOCK;C/S/T machine sort;
+R/G/B MACHINE SORT BLOCK;R/G/B machine sort;
+ACC R MACHINE BLOCK;ACC R machine;
+MACHINE SORT BLOCK;Machine sort;
+FAST GREEN MACHINE BLOCK;Fast green machine;
+COPY TEXT BLOCK;Copy text;
+FAST TEXT COPY BLOCK;Fast text copy;
+NAME ALREADY USED;This name is already taken;Ce nom est déjà utilisé
+CHOOSE LOAD GAME SLOT;Choose load game slot;
+CHOOSE CHECKPOINT;Choose checkpoint;
+ATTENTIONVERSION;Since we are still in the early access, we, unfortunately, can occasionally break (or improve!) something and your save from previous version might load incorrectly;
+ATTENTIONREWRITE;You are trying to rewrite a saved game;
+CHOOSE NEW GAME SLOT;Choose a save game slot;
+SETTINGS;Settings;Paramètres
+LOAD GAME;Load game;Charger le jeu
+EXIT GAME;Exit;Quitter
+ONLY R PARALLEL;Greetings, this is the only state internet provider of a small country. We have a rather suboptimal code to track our people activities.\nUnfortunately, we can not allow you to change the actual code, but we have several new servers purchased on a garage sale!\nParallel the calculations, this will help our tyranny to prosper!;
+ONLY R PARALLELT;Dictatorship;Dictature
+ATARI;Good day. We are inviting you to join our hacker startup!\nWe write cheats and guides for different games. But we would like to create something very cool now! We need a program that will play and win in Arkanoid instead of the player.\nWe know that you know a lot about machine learning, so we are inviting you to participate in our startup.;
+ATARIT;Tatari;
+ATARISHORTT;Tatari;
+WEEKPROFIT;Income\n;Revenu hebdomadaire\n
+CUROVERLOAD;Cur. Overload\n;
+CURUSERS;Users\n;
+USERS/DAY;Users ;Utilisateurs / Jour
+NEW GAME;New game;Nouvelle partie
+NEW GAME SLOT;New game slot;
+TUTORIALcheck;Tutorial;Tutoriel
+BASICcheck;Basics;Bases
+Normalcheck;Classification;Classification
+geneticcheck;Genetic algorithm;
+shapecheck;Classification 2;Classification 2
+perceptronscheck;Perceptrons;Perceptrons
+rnncheck;RNN ;RNN
+AVOVERLOAD;Av. Overload;
+GO BANKRUPT;Leave;Quitter
+STARTUPSCHEMEHELP;The scheme created while working for a startup does not differ from any other scheme\n\nBut it can work better or worse\n\nYour profit depends on quality of the scheme;
+Your scheme has custom nodes created from nodes illegal for this task;Your scheme contains custom nodes created from elements not allowed in this task;
+TRAIN / TEST;Train / Test;Entrainer / Tester
+TRAIN / TESTBODY;If your scheme contains self-learning nodes you can disable learning in test run;
+RELEASEBODY;"Once you press ""Release"" button, the startup will start working\n\nUntil then, feel free to experiment: test runs don't cost time or money\n\nYou can also modify your scheme at any time if you want to optimize it";
+STARTUP SCHEME HELP TITLE;Startup scheme;
+RELEASE;Release;Publier
+DAYTUTORIALTITLE;Days;Jours
+DAYTUTORIALBODY;You will be receiving profits (or damages) from your startups on a weekly basis\n\nFeel free to skip a couple of days if you don't want to wait;
+FAKESTARTUPSHORTT;Tutorial;Tutoriel
+MONEYSTTITLE;Money;Argent
+MONEYSTBODY;These bars indicate how much money your scheme has been making on each day of the week\n\nGreen color indicates that your scheme was bringing profit\n\nRed color indicates losses (e.g. you've spent more money on servers than you've earned)\n\nThe number stands for total earnings or losses for the week;
+USERSSTTITLE;Users;Utilisateurs
+USERSSTBODY;As for these bars, they show the efficiency of your scheme on each day of the week\n\n<color=#ffbd18>Yellow parts</color> indicate <color=#ffbd18>successfully processed requests</color> and the <color=#f05f4a>red parts</color> indicate those your scheme <color=#f05f4a>failed to process</color>\n\nIn simple words, if the total number of requests exceeds your scheme capacity, you earn less money;
+OVERLOADSTTITLE;Overload;Surcharge
+OVERLOADSTBODY;This histogram shows the overload dynamics\n\nThe number indicates the current overload\n\nIf this parameter gets too high, try optimizing your scheme;
+RANDOM FOREST;Random forest;
+LEAVESTARTUPBODY;Or you can opt to leave the startup\n\nYou won't get or lose money, but the startup will be deleted;
+LEAVESTARTUPTITLE;Leave;Quitter
+PROFITSTARTUPTITLE;Weekly profit;Profit hebdomadaire
+PROFITSTARTUPBODY;"This number indicates weekly profit\n\nIf you wish to, you can receive (or lose) the displayed sum by clicking ""accept""";
+SERVERSCOSTBODY;Every week you must pay servers rent using cat-cloud\n\nThe rate depends on your scheme efficiency and the number of users;
+SERVERSCOSTTITLE;Servers rent;
+INCOMESTARTUPBODY;This line indicated a startup's weekly profit;
+INCOMESTARTUPTITLE;Weekly profit;Profit hebdomadaire
+CHECKSTARTUPBODY;At the end of each week, you will receive profits (or losses) from your startup(s)\n\nIt all depends on your schemes' efficiency, so try harder!;
+CHECKSTARTUPTITLE;Startup's profit;Profit de la start-up
+CONTROLS;Controls;Contrôles
+ACONTROL;A;A
+DCONTROL;D;D
+SPACECONTROL;Space;Espace
+ALTCONTROL;Alt;Alt
+COPYPASTECONTROL;Ctrl+C, Ctrl+V;Ctrl+C, Ctrl+V
+DELETECONTROL;Delete;Supprimer
+RCCONTROL;RMB;RMB
+ADESCRIPTIONCONTROL;Reduce / Increase speed;Augmenter / Diminuer la vitesse
+DDESCRIPTIONCONTROL;Increase speed;Augmenter la vitesse
+SPACEDESCRIPTIONCONTROL;Pause;Pause
+ALTDESCRIPTIONCONTROL;Show / Hide modificators;Afficher / Masquer les modifications
+COPYPASTEDESCRIPTIONCONTROL;Copy and paste nodes;Copier et coller les noeuds
+DELETEDESCRIPTIONCONTROL;Deletes the block you point at;Supprime le bloc indiqué
+RCDESCRIPTIONCONTROL;Deletes the line you point at;Suprime la ligne indiquée
+MAILS;Inbox;
+CONDITIONS;Conditions;Conditions
+JOB;Job;Job
+PRIVATE;Private;Privé
+REWARDTASK;Reward;Récompense
+CTRL+C;Ctrl+C;Ctrl+C
+CTRL+V;Ctrl+V;Ctrl+V
+OPTIONS;Options;Options
+NAMEFROM;Spanishschool@cat.meow;
+FIXFROM;Spanishschool@cat.meow;
+FIX2FROM;Spanishschool@cat.meow;
+FIX3FROM;Spanishschool@cat.meow;
+ONLY TRIANGLEFROM;Strangeman@cat.meow;
+FIRST PERCEPTRONFROM;Kgb@bear.roar;
+FIRST PERCEPTRON2FROM;Recapchacompany@cat.meow;
+ALL/G DIVIDEFROM;Christmasshop@cat.meow;
+R/R PARALLELFROM;Scientificcenter@cat.meow;
+R/R/R/R PARALLELFROM;Catcashminers@cat.meow;
+ONLY R PARALLELFROM;Bestdictatorintheworld@cat.meow;
+ONLY R/R PARALLELFROM;Yahuuscorp@cat.meow;
+FILMMARKFROM;Osgarcommittee@cat.meow;
+R/G/B SORTFROM;Nationalheritage@cat.meow;
+CLOSEPRFROM;Clothingstore@cat.meow;
+R/G DIVIDE 50%FROM;Illuminati@cat.meow;
+R/G DIVIDE 75%FROM;Moneybagbank@cat.meow;
+SHAPE%FROM;Presidentcrump@bear.roar;
+PPEFROM;Presidentcrump@bear.roar;
+MARSFROM;Ilonmars@cat.meow;
+PRETRAINED GENETICFROM;Scientificcenter@cat.meow;
+CHESSKASPFROM;Gasparov@bear.roar;
+GENETIC DIVIDE 2FROM;Benmesricth@cat.meow;
+C/T DIVIDEFROM;Denisdaily@cat.meow;
+ONLY SQUARE 60%FROM;Ukkasarasti@cat.meow;
+APPSTATFROM;Scientificcenter@cat.meow;
+ONLY SQUAREFROM;Postoffice@cat.meow;
+ORTFROM;Randomtowncouncil@cat.meow;
+RC/BT DIVIDEFROM;Fbi@cat.meow;
+C/S/T FAST SORTFROM;Scientificcenter@cat.meow;
+C/S/T MACHINE SORTFROM;Skynetwork@cat.meow;
+VURUSCLASTFROM;Survivors@cat.meow;
+FAST R MACHINEFROM;Lostaircraft@cat.meow;
+MACHINE SORTFROM;Notmatrix@cat.meow;
+RED MACHINEFROM;Naca@cat.meow;
+CRSIMSTYLEFROM;Lazywriter@cat.meow;
+FAST TEXT COPYFROM;Wtldevelopers@cat.meow;
+ATARIFROM;Coolhackers@cat.meow;
+TRAFFICFINDERFROM;Yber@cat.meow;
+EXTRABIGACCFROM;Interpol@cat.meow;
+GENETICSTFROM;Evolver@cat.meow;
+AMAZONFROM;Gamazon@cat.meow;
+BACKSPACECONTROL;Backspace;
+MUSIC VOLUME;Music volume;Volume de la musique
+SOUND VOLUME;Sound volume;Volume du son
+COLOR BLIND MODE;Color blind mode;
+DISABLE TUTORIAL;Disable tutorial;Désactiver le tutoriel
+ATTENTIONVERSION2;Are you sure you want to do so?;Es-tu sûr(e) de vouloir le faire ?
+ATTENTIONREWRITE2;Are you sure you want to do so?;Es-tu sûr(e) de vouloir le faire ?
+REJECT;Reject;Rejeter
+STARTUP;Startup;Start-up
+PRIVATE MAIL;Private mail;Mail privé
+EDIT;Edit;Modifier
+PATCH;Patch;
+SURECANCELOFFER2;Are you sure you want to do this?;
+REWRITEBTN;Rewrite;Réécrire
+OPS;Whooops!;Oooups
+JOIN THE STARTUP;Join startup;Rejoindre la start-up
+REJECT OFFER;Reject offer;Rejeter l'offre
+IN DEVELOPMENT;In development;En developpement
+READ;Read;Lire
+PARENTSFROM;Mamydad@cat.Meow;
+FRIENDFROM;Bff@cat.Meow;
+JACKPOTFROM;Goldlotto@cat.Meow;
+DELETESTARTUPWARNING;Today your shares cost %NUM;
+LEAVE;Leave;Quitter
+ELSE;Else;Autre
+PATCHBTN;Patch;Patch
+CHESHIREPROMOTEXT;Only for friends;Juste pour les amis
+COMMUNITY;Community;Communauté
+WHO KNOWS WHAT YOU WILL GET?;Who knows what you will get;
+PROMOCODE;Promo code;Code promo
+CHESHIRE;Cheshire;Cheshire
+CHESHIREDESCR;Only a few find the way, some don't recognize it when they do - some... don't ever want to;
+WHO KNOWS WHAT YOU WILL GET?;Who knows what you will get;
+ANYSORTER;Greetings!\nOur scientific conference provides several lecture halls for the visitors to meet famous scientists.\nWe would like to separate VIP badge holders from the rest, but unfortunately, VIP halls have a very limited capacity. Therefore some of the premium badge holders will have to be sent to the regular halls. We have a terminal that helps the visitors find the way to the respective room, but it has to be updated accordingly. Would you kindly do that for us?;
+ANYSORTERT;Elite conference;
+ANYSORTERFROM;Elite3@cat.Meow;elite3@chat.miaou
+JOIN DISCORD;Join our Discord community;Rejoins la communauté Discord
+SUBSCRIBE TWIITER;Follow us on Twitter;Suis nous sur Twitter
+READBHSCENE;Read about the game;En savoir plus sur le jeu
+STORYBHGAME;Story behind the game;L'histoire derrière le jeu
+SUBSCRIBE FACE;Follow us on Facebook;Suis nous sur Facebook
+NEWFRIEND;Join our friends club and get a secret cat skin;Rejoins notre club d'amis et reçois une apparence secrète de chat
+CHESHIREPROMO;The cat was unlocked;Le chat a été débloqué
+PROMOWAS;Promo code already activated;Code promo déjà activé
+PROMOERROR;Promo code doesn't exist;Code promo inexistant
+RED;Red;Rouge
+GREEN;Green;Vert
+BLUE;Blue;Bleu
+ANY;Any;Tout
+CONTINUEFULL;Continue;Continue
+REWORKBTN;Rework;Retravailler
+ANYSORTER BLOCK;C/s&t/green;
+USECUSTOM;In this task, you need to use one of your previous schemes.\nCheck them out in the 'Custom nodes' section.;
+ONLY R PARALLEL BLOCK;Only R parallel;
+STARTUPWENTBUNKRUPT;The startup went bankrupt. Your shares are nothing of value now\n\nMake more profit and cash out faster next time;
+STARTUPBAKRUPT;%KEYNAME startup went bankrupt;Start-up %KEYNAME a fait banqueroute
+COMPANYBALANCE;Balance\n;
+PLAYERSHARES;Your shares\n;
+LEAVETITLE;Leave the startup;Quitter la start-up
+LEAVEBODY;You can sell your shares and leave the startup at any time\n\nTo do so, press the icon with an arrow on it\n\nThe number near the icon indicate the total value of your share in the company;
+DELETESTARTUPWARNING2;Are you sure you want to sell them and leave the startup?;
+SELL;Sell;Vendre
+OUTMONEY;Your funds are insufficient even for buying cat food!!!;
+CREDIT1;But today only and now only, you can take a loan from the Last Chance bank.\nWe will give you %NUM1, and we expect you to return %NUM2 in %DAY days.\n\nIt's an opportunity you don't want to miss!;
+CREDIT2;"Good day!\n\nWe're happy to inform you that your request for a loan of %NUM1 from Last Chance has been approved.
+You are required to return said loan in %DAY days, and the amount is %NUM2, including interest. We kindly expect you to pay on schedule, otherwise we would be required to refer to our collectors department.";
+AGREE;I agree;J'accepte
+PAY DAY;Loan payment;
+payout timebody;Where is the money, %USERNAME?\n\nYou owe us %NUM.\nIt's time to pay off the loan, otherwise, we will have to confiscate your carpet.;
+HARD OR IMPORTANT TASK;Hard or important task;Tâche difficile ou importante
+ACC TIMER;Acc timer;Acc timer
+CLEARALL;Clear all;Tout effacer
+INVEST;Investment;Investissement
+SHARECOST;Cost;Coût
+#PERSHARE;$ / share;$/partage
+COMPANYBALANCE2;Budget;Budget
+CTRL+SHIFT+V;Ctrl+Shift+V;Ctrl + Shift + V
+PASTWITHOUTLINES;Insert without links (lines);inserer sans liens
+CLEARSCHEME;This action deletes all nodes;Cette action va supprimé toutes les nodes
+CLEARSCHEME2;Are you sure you want to do this?;Etes- vous sur que vous voulez faire cela ?
+MIN;Min;Min
+MAX;Max;Max
+CUR;Cur;Act
+RESET TUTORIALS;Reset tutorials;Réinitialiser les tutoriels
+ATTENTIONDELETESAVES2;This action will remove the selected saves;Cette action va supprimer les sauvegardes sélectionnées
+ATTENTIONDELETESAVES;Are you sure you want to do this?;Etes vous sur que vous voulez faire ça ?
+VERSION;Version;Version
+NICKNAME;Nickname;Pseudo
+NEW GAME SLOT SAVE;NEW GAME SLOT;Nouvelle sauvegarde
+EXIT2;EXIT;QUITTER
+DEUS;The Moralist;Le Moralisateur
+IRONCAT;Iron Cat;Le chat de fer
+DEUSDESCR;Apex of the evolution;Le Maître
+IRONCATDESCR;Mastermind, cutie, heartbreaker, born hunter;
+AUTOSAVE;Autosave;Sauvegarde automatique
+LATEST;Latest;Derniere
+PERCEPTRON SHAPE;Perceptron shape;cotisation
+PERCEPTRON COLOR;Perceptron color;couleur du Perceptron
+NOT ENOUGH MONEY;NOT ENOUGH MONEY;PAS ASSEZ D'ARGENT
+TRAIN RUN;Training;Entrainement
+DUPLICATE;Duplicate;Dupliquer
+MEMORYBONUS;Provides DLL slots:;Procure espaces de sauveguarde supplémentaire
+RAM2SHOP;256MB RAM;256MB RAM
+RAM3SHOP;1GB RAM;1GB RAM
+RAM4SHOP;16GB RAM;16GB RAM
+NETSHOP;JNTEL network card;JNTEL carte réseau
+SERVER2SHOP;KELL SERVER 3500;KELL SERVEUR 3500
+SERVER3SHOP;HD RM475 SERVER;HD RM475 SERVEUR
+SERVER4SHOP;JNTEL ELREON ZX-367UP;JNTEL ELREON ZX-367UP
+ROUTER2SHOP;AQUQ router;AQUQ routeur
+ROUTER3SHOP;MikrosTic router;Router MikrosTic
+ROUTER4SHOP;Hiaomu router;Router Hiaomu
+PROCSHOP;Rentium;Rentium
+PROC2SHOP;Rentium 3;Rentium 3
+PROC3SHOP;JNTEL j3;JNTEL j3
+PROC4SHOP;JNTEL j7;JNTEL j7
+COOLERSHOP;Air cooling system;
+NVIDIA2SHOP;GVIDIA 720;GVIDIA 720
+NVIDIA3SHOP;GVIDIA 1080ki;GVIDIA 1080ki
+NVIDIA4SHOP;GVIDIA COLOSSUS VIIII;GVIDIA COLOSSUS VIIII
+HARDSHOP;30GB HDD;30GB HDD
+HARD2SHOP;256GB HDD;256GB HDD
+HARD3SHOP;512GB SSD;512GB SSD
+HARD4SHOP;2TB SSD;2TB SSD
+TIMBRELSHOP;Tambourine;Tambourin
+TIMBREL2SHOP;Ancient sysadmin's tambourine;
+TIMBREL3SHOP;Perfect handmade tambourine;Tambourin parfait fait à la main
+DISCORD HELP;Confused? Stuck?\n\nJoin our Discord channel!\nOur huge and friendly community and developers themselves will gladly help you with any questions!;Embrouillé ? Bloqué ?\n\nRejoins notre channel Discord!\nNotre grande et accueillante communauté et les développeurs eux-mêmes répondront à toutes les questions!
+CTRL+A;Ctrl+A;Ctrl+A
+CTRL+ADESCR;Select all;Tout sélectionner
+SERVERSLIMIT;Servers limit;Limite de serveur
+TIME LIMIT;Time limit;Limite de temps
+AVDESTTIME;Av. Dest. Time;
+CUSTOMLIMIT;Custom nodes limit;
+NODELIMIT;Nodes limit;Limite de node
+throughput;Capacity;Capacité
+SPENTMONEY;Money spent;Argent dépensé
+ESTIMATEDCOST;Estimated cost;Coût estimé
+CATHUB;CatHub (acquired by Micatsoft);
+LOWACC;Low accuracy;Faible précision
+WOT;Tankcat;Chatank
+WOTDESCR;The cat is not sleeping, it's preparing to attack;Le chat ne dort pas, il se prépare à attaquer
+EVOLVERFROM;Evolver@cat.meow;
+YOUR MONEY;Your money;Ton argent
+coursera;Learn this;
+WIKI;Learn how it works;
+YOUTUBE;Watch how it works;
+DEEPCLEAR;Deep clear and restart;Tout effacer et recommencer
+DELETESAVESWARNING;This action fully clears all your saves from this computer. Restart the game after the process is complete;
+LEARN HOW IT WORKS;Learn how it works (Warning! Maths, integrals, derivatives and other scientific words inside);
+MAXSTARTUPS;You are only able to join up to 4 startups at a time;Vous ne pouvez rejoindre que 4 start-ups a la fois
+TWOFLOWER;Twoflower;Deuxfleurs
+TWOFLOWERDESCR;Tourist;Touriste
+TWOFLOWERPROMOTEXT;For merits in localization;
+TWOFLOWERPROMO;The cat was unlocked;Le chat a été débloqué
+SCHEME NAME :;Scheme name :;
+FILTER;Search;Rechercher
+ROSENBLATT;MARK-1 Perceptron;MARK-1 Perceptron
+PARALLEL;Load balancer;
+DSTREE;Decision tree color;
+REMOVE;Trashcan;Poubelle
+IFSHAPE;SIFT;SIFT
+IFCOLOR;Expert system;
+DSSHAPE;Decision tree shape;
+RANDOMFOREST;Random forest;
+PERCEPTRONCOLOR;Perceptron color;
+PERCEPTRONSHAPE;Perceptron shape;
+GRADIENT;Gradient descent;
+RNNCELL;RNN layer;
+GENCOPYBLOCKCOLOR;Genetic solver;
+MULTIPLY;Duplicator;
+SGRADIENT;Stoch. Grad. Descent;
+SCHEME NAME;Scheme Name;
+HIDELOCKED;Hide locked items;
+NODESST2;DLL Nodes;
+NODESST1;Custom Nodes;
+NODESST0;Base Nodes;Noeuds basiques
+RELEASETUTORIAL;Release the program to complete the task;
+TESTTUTORIAL;"Click ""Test run"" to check if the scheme works properly";
+DRAGLINETUTORIAL;Drag the connection line from the starting block on the left to the 'Expert system' block on the right\n\nIf you want to delete connection, place your mouse over the line and press the right button;
+DRAGBLOCKTUTORIAL;Welcome to your workspace!\n\nThis is where programming magic (and bugs, mostly bugs) is born!\n\nTo begin, drag an 'Expert system' node from the list on the right;Faites glisser un bloc de la liste pour le placer sur l'écran
+ELITECLUB;Hey. \n\nWe created a soap-making start-up, yet we need some help in another department. We've established a, let's call it 'unofficial', competition to determine the best loaders for our business. Now we need a programmer who will be cool enough to write an algorithm, which will allow us to understand who suits the job better, based on applicants' physique and success in said competition of ours. And the most important part of the deal is... to keep silent about it!;
+ELITECLUBT;Soap-making business;
+ELITECLUBSHORTT;Soap-making business;
+ELITECLUBFROM;TylerDurken@cat.meow;TylerDurken@chat.miaou
+INSURER;Hello!\n\n We are new in the insurance business and our main goal is to bring new technologies to this sphere. You can call our enterprise a start-up. We are striving to make a 100% correct decision in any insurance case. At the moment, we are looking for a programmer who will make our analysis and insurance cases assignment algorithms perform well and become a part of our team.;
+INSURERT;Insurance Company;Compagnie d'assurance
+INSURERSHORTT;Insurance Company;Compagnie d'assurance
+INSURERFROM;WewillInsureyou@cat.meow;nousvousassurons@chat.miaou
+FIGHT;Fighters;Combattants
+DEVELOPER;Game developer;
+DEVELOPERDESCR;Code, sleep, repeat;Code, dors, recommence
+DEVELOPERPROMOTEXT;For merits in testing;
+EXPOCAT;Expo cat;
+EXPOCATDESCR;For spotting a living game developer in the flesh;
+EXPOCATPROMOTEXT;For expo's friends;
+THXFORTESTINGPROMO;The cat was unlocked;Le chat a été débloqué
+EXPOFRIENDPROMO;The cat was unlocked;Le chat a été débloqué
+COURSES;Hello!\nWe are an online-learning company and we prepare educational courses on our own platform. Have you heard of E-Learning? Even though we are a small team, we are growing rapidly and our main goal is to make education modern and personalized. In order to reach this goal, we need a programmer, who will make an algorithm which will pick the best courses for each student based on his/her interests and goals written in the questionnaire. What do you think about this idea?;
+COURSEST;Mr. cat's school;
+COURSESSHORTT;Mr. cat's school;
+COURSESFROM;catschool@cat.meow;
+HEALTH;Good day.\nOur lab is researching cancer cells and we are close to something that might be a breakthrough in this field of knowledge. We are a start-up and we need a qualified specialist in our team, who will be able to write an algorithm which will divide cancer cells by type. There are 2 types we're working with at the moment.\nSo, are you ready to make an impact to the medicine of tomorrow?;
+HEALTHT;Blood Center;
+HEALTHSHORTT;Blood Center;
+HEALTHFROM;bloodsuckers@cat.meow;
+CURTASK;Current task;Tâche actuelle
+POMODORKAZRPROMO;The cat was unlocked;
+TREE;Tree;Arbre
+PROGRESSTREE;Task tree;Arbre des tâches
+USEASCUSTOM;Use as custom;
+GP;"Good afternoon. \nWe are a cargo transportation company and are now working passionately on improving our service. Our cargo distribution system is old and works badly, it often fails. We want you to automate the process and make an algorithm which will sort the goods by their characteristics. This is very crucial for the efficiency of our deliveries.
+High sorting accuracy is very important to us. Do you accept the task?";
+GPT;Medx;Medx
+GPSHORTT;Medx;Medx
+GPFROM;medx@cat.meow;medx@chat.miaou
+KL;Hi there, my name is Sarah!\nI own a small technology farm. We are improving our processes using the latest technologies. Shops we are working with need supplies of eggs of different kinds, and it takes a lot of time to sort them manually. That's why we've decided to automatize the process. We have all the necessary characteristics used to calculate eggs parameters, but we need an algorithm which will work without any human assistance with high accuracy. ;
+KLT;"""Chicken Escape"" farm";
+KLSHORTT;"""Chicken Escape"" farm";
+KLFROM;chickeneggs@cat.meow;
+TQ;"Good day.\nOur company is making a sociological research. We are currently working in the field of ""Crowd psychology"" and we need an algorithm which will be capable of defining a person's type based on certain behavior triggers. This way we will be able to quickly identify dangerous individuals in the crowd according to their behavior, and prevent unpleasant accidents.
+We have identified the parameters to work with, but we need an experienced developer to write the algorithm.";
+TQT;Crowd psychology;
+TQSHORTT;Crowd psychology;
+TQFROM;fightmangroup@cat.meow;
+YU;Hello!\n My name is Sam, I own a dairy products factory. I am new in this business but I see that there are some things that need improvement. I dream of producing the goods that would be both of high quality and exquistely tasty! And they simply can't be made without high accuracy in fermentation processes. Alright, off with those fancy words. I want to teach a program to be able to tell the quality of a product judging on its ingredients. This way we will get able to separate tasty and well-made products from bad ones. We often make mistakes when doing it manually, and a lot of our products never leave the factory since we mark them as defective ones. We have the data, but we need a program. ;
+YUT;Dairy products manufacture;Usine de produits laitiers
+YUSHORTT;Dairy products manufacture;Usine de produits laitiers
+YUFROM;freshmilk@cat.meow;laitfrais@chat.miaou
+WA;Hello, we are the Metal Gear Construction factory.\nWe produce fittings and supply raw materials to large construction projects all around the world. We are especially proud of our high standards of quality. At the moment, we need to increase our production rates. We've received a lot of new orders and we are running late with the deadlines. An algorithm is required that will determine the quality of the raw material after scanning it and would discard poor-quality ore before it leaves the conveyor. The process is very complex and manual analysis takes way more time then we can afford.;
+WAT;“Metal Gear Construction” factory;"Usine ""Metal Gear Construction"""
+WASHORTT;“Metal Gear Construction” factory;"Usine ""Metal Gear Construction"""
+WAFROM;sollidconstruct@cat.meow;
+JU;Good day!\nOur group is working on finding an ancient artifact called Turssaract. It is a very unstable element which radiates energy in different specters. We have almost found out how to use its power to benifit the humankind, but we need a smart algorithm that will separate and direct the flows of energy correctly. \nRevolution in energetics is just around the corner, my friend! ;
+JUT;Ancient artifact;Ancient artefact
+JUSHORTT;Ancient artifact;Ancient artefact
+JUFROM;notloki@cat.meow;
+IQ;Top of the morning to you from Zimaletto Outfits! \nWe're trying to optimize our production lines and that means making significant changes to manufacturing process. Namely, we need a system that would distribute textile by material and send them to respective conveyors, in equal amounts. \nWe believe that you might be the one who could nail this job, so we look forward to hearing back from you!;
+IQT;New production - the best clothes;Nouvelle production - les meilleurs vêtements
+IQSHORTT;New production - the best clothes;Nouvelle production - les meilleurs vêtements
+IQFROM;zimaletto@cat.meow;zimaletto@chat.miaou
+PPP;Good day to you!\nWe are a secret military organization, our code name is Pro_Toss. Everything you are going to read further is strictly confidential. Our analysts are sending our operatives to various conflict zones. An escalation of conflict with the enemy has recently occurred. We are in need of a self-learning algorithm capable of quickly sending the necessary soldiers from the specifically picked subdivisions to respective parts of the battlefield.;
+PPPT;Secret information;Information secrète
+PPPSHORTT;Secret information;Information secrète
+PPPFROM;notexthere@cat.meow;pasdetexteici@chat.miaou
+NUY;Greetings.\nOur company, Cyber Initiative is into manufacturing androids. Our HQ is in Detroit, and the production process is robotized. The only function which is still performed by human workers is logistics: we're shipping our androids to the government, military companies and etc. We would love to automatize this process with an algorithm that will send androids to whereever they're needed, depending on their characteristics. ;
+NUYT;Cyber Initiative;Cyber Initiative
+NUYSHORTT;Cyber Initiative;Cyber Initiative
+NUYFROM;cyber_in@cat.meow;Cyber_in@chat.miaou
+SWITCH TO NODE;Open node's structure;
+DOUBLE CLICK;Double click;Double-clic
+HELPLOCALIZATION;Can't find language?;
+TRANSLATE;Help us translating the game and get a specially tailored cat outfit!;
+QW;Howdy!\n I'm contacting you on behalf of NukaToy company. We design and manufacture toys for children using 3D-printing technology. There are 3 types of raw materials we use for printing and we need an algorithm that would distribute them correctly. Passing a certain errors threshold could result in a disaster, so watch out for those!;
+QWT;New technologies in toy manufacturing;
+QWSHORTT;New technologies in toy manufacturing;
+QWFROM;nukeyourtoy@cat.meow;
+RU;;
+RUT;;
+RUSHORTT;;
+RUFROM;;
+SKIP INTRO;Skip introduction;Passer l'introduction
+TREETUTORIALTASKS;The Task Tree displays your in-game progress\n\nDifferent type of tasks will be marked with different colors and icons. Each icon corresponds to a certain type of tasks.\n\nAs you get further in the game, more awesome stuff will start appearing in the in-game's shop!;
+TREETUTORIALCONECTIONS;Lines on the Task Tree show in which order the tasks will be unlocked\n\nIf you see a task which is locked at the moment, you can check its requirements by placing the cursor on it\n\nSometimes, in order to unlock a task, you will need to complete a certain group of tasks or even several groups of tasks;
+TREETUTORIALEDUCATIONAL;By moving up the Tree trunk, you will be learning new machine learning algorithms.\n\nDon't be afraid to ignore side-tasks: you can get back to completing them whenever you want;
+Tree structure;Tree structure;
+Tasks;Tasks;
+Connections;Connections;
+TREETUTORIALEDUCATIONAL2;If some of the tasks seem too hard to tackle, you can train in side-tasks.\n\nThis way you will be able to create more useful schemes which will help you complete harder quests and get enough funds to upgrade your equipment;
+ONLY RED FAST1 BLOCK;RG/GB/RG ;
+ONLY TRIANGLE1 BLOCK;C/S/T SIFT;
+ONLY RED FAST2 BLOCK;RB/RG Sort;
+FIRST PERCEPTRON1 BLOCK;All/? Sort;
+FIRST PERCEPTRON-2 BLOCK;Color/Shape;Couleur/Forme
+R/R PARALLEL1 BLOCK;Color Sort;Tri Couleur
+R/R PARALLEL2 BLOCK;Parallel Color;Couleur parallèle
+R/R/R/R PARALLEL1 BLOCK;All/R/B;Tout/R/B
+R/R/R/R PARALLEL2 BLOCK;All/All/R/B;Tout/Tout/R/B
+SUREJOINSTARTUP2;Are you sure you want to do this?;Êtes-vous sûr(e) de vouloir faire ca ?
+SUREJOINSTARTUP;You are about to invest %NUM$ in the start-up;Vous êtes sur le point d'investir %NUM$ dans la start-up
+CREDIT;Credit;
+DAYCREDIT;Days left;
+HIDECOMPLETEDTASKS;Hide completed tasks;Masquer les tâches complétées
+HIDEOLDSTARTUPS;Hide irrelevant start-ups;
+HIDEREADLETTERS;Hide read letters;Masquer les courriers lus
+4SCHEMESCATHUBTUT;These are CatHub repositories\n\nThey store previously made schemes and allow switching between them, when required\n\nYou can choose a version of the scheme which will be used as custom node;
+CATHUBTUT;CatHub;CatHub
+USEASCUSTOMTUT;Custom Nodes;
+USEASCUSTOMTUTBODY;You can to choose a version of the scheme which will be used as a custom node;
+TIMETUTORIALHEADER;Processing time;
+TIMETUTORIALTEXT;Different blocks have different processing rates\n\nThis parameter will influence efficiency of your schemes\n\nIcons on the right indicate the time required for a block to process one element of data;
+ERRORTUTORIALHEADER;Error rate;Taux d'erreurs
+ERRORTUTORIALTEXT;"And now for something completely different! Perceptrons can actually learn and improve\n\nBad news: they also make a ton of errors on the way (the percentage of errors is shown on this icon)\n\nUse ""Training"" mode to teach perceptrons and decrease the amount of errors\n\n(You might need several iterations of training for best results)";
+SERVERTUTORIALHEADER;Servers;Serveurs
+SERVERTUTORIALTEXT;To proceed data, your blocks need computing powers: the servers\n\nCertain blocks require more than one server\n\nThe more servers you use, the more expensive your scheme becomes;
+MEMORYTUTORIALHEADER;RNN memory;
+MEMORYTUTORIALTEXT;For RNN to start predicting things, connect the lower pairs of sockets from right to left\n\nThis part of the block represents RNN's memory;
+SPEEDTUTORIALHEADER_P1;Faster, better, stronger;Vitesse du jeu
+SPEEDTUTORIALTEXT_P1;To decrease and increase speed, click a <color=#ffbd18>button</color> on the screen or use <color=#ffbd18>arrows</color> or <color=#ffbd18>A</color> and <color=#ffbd18>D</color> buttons\n\nUse <color=#ffbd18>space</color> to pause;
+INPUTSPEEDCUSTOMTUTORIALBODY;This icon indicates how often a custom block can start processing another element of data;
+INPUTSPEEDCUSTOMTUTORIALTITLE;Data processing acceptance frequency;
+PROCESSEDTUTORIALBODY;That icon with two arrows indicates the total number of elements being processed by a block;
+PROCESSEDTUTORIALTITLE;Number of processed elements;
+COPYPASTETUTORIALHEADER;Copy and paste;Copier et coller
+COPYPASTETUTORIALTEXT;Did you know: you can treat blocks pretty much like any file on your computer\n\nUse <color=#ffbd18>Ctrl+C</color> to copy, <color=#ffbd18>Ctrl+V</color> to paste\n\nClick, hold and drag your mouse to select multiple blocks etc.\n\nProgramming is easy (sometimes, at least)!;
+OCCACCTUTORIALTEXT_P1;See these colorful geometric shapes? They represent various kinds of data\n\nIn modern world, everything can be turned into data: numbers, letters, elements of images...\n\nMachine learning is all about sorting and interpreting data;
+OCCACCTUTORIALHEADER_P1;Output stream;
+OCCACCTUTORIALTEXT_P2;Long story short, your goal in the game is to transfer data from the left part of the screen to the right\n\nThis bar shows the minimum amount of data that needs to be processed to complete the task;
+OCCACCTUTORIALHEADER_P2;Accuracy requirements;Précision nécessaire
+OCCACCTUTORIALTEXT_P3;You don't always need to sort 100% of data correctly. Check out the accuracy bar on an output node to see the requirements!;
+OCCACCTUTORIALHEADER_P3;Task completion conditions;
+CATCASH;CATCASH;
+BANK;BANK;BANQUE
+OCCACCTIMERTUTORIALHEADER_P1;Maintain accuracy level;Maintenir le niveau de précision
+OCCACCTIMERTUTORIALTEXT_P1;In certain tasks with perceptrons, you need to keep the accuracy of your data flow above the required level while the timer is filling\n\nIf the accuracy drops, the timer will be reset\n\nThe timer is only active in test run and release run;
+OCCACCTIMERTUTORIALHEADER_P2;Timer;
+OCCACCTIMERTUTORIALTEXT_P2;This timer fills up when the accuracy goes higher than necessary. You can see the time left to keep the accuracy at the current rate at the top;
+OCCACCTIMERTUTORIALHEADER_P3;Accuracy;Précision
+OCCACCTIMERTUTORIALTEXT_P3;You need to control the quality of data distribution as the time passes by. In some tasks, the required accuracy can be lower than 100%. Because of this, there is some space left for making one or a few mistakes;
+SPEEDTUTORIALHEADER_P2;Speed;Vitesse
+SPEEDTUTORIALTEXT_P2;You can change current game speed with hotkeys;Vous pouvez changer la vitesse du jeu à l'aide de raccourcis clavier
+BATISKAFPROMO;The cat was unlocked;Le chat a été débloqué
+ITEMS;Good day.\n\nI am the CEO of a small, yet, I hope, successful HolaExpress start-up. We are delivering different exclusive goods from different countries. We search for rarities which are hard to find and help people purchase them with comfort. We have 2 site we sell our services on, and we are receiving so many orders that we can't keep up the pace. I want to ask you to make a smart order processing system for our business and offer you a stake in our start-up if the business runs well.\n I look forward to hearing back from you!;
+ITEMST;Rare items;Objets rares
+ITEMSSHORTT;Rare items;Objets rares
+ITEMSFROM;holadelivery@cat.meow;
+SOMEBODYS;Hello-hello there! We are the T-Motors company. \n\nWe are famous for constructing high-tech cars, they can do almost everything, except flying. We are a rather young company, almost a start-up, but we have a lot of orders already. Our logistics, though, is our weak spot. All details are sent to us from 2 factories, we are receiving a lot of information from them, so much it gets confusing. As a result, we make mistakes and the production halts. Help us solve this logistic paradox with the help of a special algorithm. This matter is truly important to us and we are ready to offer you a share in the business for helping us out. ;
+SOMEBODYST;High-tech cars;
+SOMEBODYSSHORTT;High-tech cars;
+SOMEBODYSFROM;tmotors@cat.meow;
+TYY;Greetings.We hope that this message will remain confidential. \n\nWe are Sniffer.all, an analytics agency, and our services include parsing huge companies databases. The issue lies in their protection systems - we have a very small amount of time to download all the data we need before we get tracked. We need an algorithm that will download the data we need fast and secure.The payment will be sent to you after the first successful parsing made with your program.;
+TYYT;Industrial espionage;Espionnage industriel
+TYYSHORTT;Industrial espionage;Espionnage industriel
+TYYFROM;sniffeverything@cat.meow;renifletout@chat.miaou
+HJ;Good day. \n\nWe have developed an innovative printing machine that allows you to apply complex patterns to any surface. It has two printheads - this speeds up the printing process a lot. But the distribution of colors does not work for us, the printer confuses colors. To release our novelty on the market, we need to solve this problem. Can you help us?;
+HJT;Color business;
+HJSHORTT;Color business;
+HJFROM;colorme@cat.meow;coloremoi@chat.miaou
+YTYE;Good day.\n\nI am representing McRallen company interests. Our pilots are participating in different types of races: from rally to Formula 1. They are doing their best to always improve their results and our project is here to help them out. We want to make a system that will be calculating ideal passage trajectory by machine training means. Roughly speaking - it will learn to pass the track perfectly. We were told that you are a specialist who is capable of carrying out such a task. ;
+YTYET;Trajectory thirst;
+YTYESHORTT;Trajectory thirst;
+YTYEFROM;McRallenF1@cat.meow;
+YOR;Hello.\n\nOur company, CyberNeon2088 is making LED scoreboards. Each scoreboard is built by a robot, but then we have to spend a lot of time on quality assurance. We want to improve the firmware of our assembly robots so that our employees wouldn't have to spend their time to do routine checkings. It is necessary to distribute and solder the lamps of the desired shape and color to the places corresponding to the project plan.;
+YORT;Neon city;Ville néon
+YORSHORTT;Neon city;Ville néon
+YORFROM;CN2088@cat.meow;CN2088@chat.miaou
+IIIL;Hi there. This is SortStuff company. \n\nWe are a postal company. Every day thousands of parcels pass through us. No one likes it when their packages from HolaExpress get send somewhere else by mistake. We have a sorting system for incoming mail for a long time already, it distributes packages depending on the marking of the order, but it makes too many errors. We want to reduce the number of unpleasant situations to the minimum.;Salut. C'est l'entreprise TriChose.\n\nNous sommes une entreprise postale. Tous les jours des milliers de paquets transitent grâce à nous. Personne n'aime quand ses paquets d'HolaExpress arrivent quelque part d'autre par erreur. Nous avons depuis longtemps un système de tri pour le courrier entrant, il distribue les paquets en fonction du marquage de l'ordre, mais il fait trop d'erreurs. Nous voulons reduire au minimum le nombre de situations désagréables.
+IIILT;A package for you;Un paquet pour vous
+IIILSHORTT;A package for you;Un paquet pour vous
+IIILFROM;sortissimo@cat.meow;trissimo@chat.miaou
+KKJ;"Greetings.\n\nOur team, ""101"", is developing a new system of augmented virtual reality, which will combine not only visual images but also tactile sensations. However, we need help in developing the algorithm for data processing. As you may understand, there must be no errors in the process as we don't want to disrupt player experience!";
+KKJT;VR;RV
+KKJSHORTT;VR;RV
+KKJFROM;i0icorp@cat.meow;
+TRY;Good day. \n\nWe are the Plants&Color company. We are growing a variety of plants and deliver them even to distant countries. We are able to offer such services thanks to a special method of selection: depending on the remoteness of the customer, the conveyor selects fruits at different stages of ripeness. This method allows us to bring products of the required maturity and freshness. We want to improve the pipeline by using an algorithm that will determine the degree of fruits ripeness and collect them.;
+TRYT;Fruits and vegetables;Fruits et légumes
+TRYSHORTT;Fruits and vegetables;Fruits et légumes
+TRYFROM;planted@cat.meow;plante@chat.miaou
+YIY;Hello!\n\nOur lab, RGBvision, is engaged in the development of high-tech optics and right now we are working on the creation of night vision devices of the newest generation. We are going to embed a new color filtering into our devices. We need to teach our processors to define and distribute colors according to the created criteria. Will you help us with this?;
+YIYT;New generation NVD;
+YIYSHORTT;New generation NVD;
+YIYFROM;RGBvis@cat.meow;
+FIRST PERCEPTRON3  BLOCK;Circle/SquareTriangle/All;Rond/CarréTriangle/Tout
+R/G DIVIDE 50%1 BLOCK;RedGreen/RedBlue;RougeVert/RougeBleu
+R/G DIVIDE 50%2 BLOCK;RedGreen/RedBlue/Blue;RougeVert/RougeBleu/Bleu
+GENETIC DIVIDE1 BLOCK;GreenBlue/RedBlue/RedGreen;VertBleu/RougeBleu/RougeVert
+ONLY SQUARE 60%1 BLOCK;All/SquareCircle;Tout/CarréRond
+ONLY SQUARE 60%2 BLOCK;RedGreen/RedBlue/All;RougeVert/RougeBleu/Tout
+R/G/B MACHINE SORT1 BLOCK;ShapesColor;
+ACC R MACHINE1 BLOCK                                                                  ;ShapesGreen/Blue;
+UIK;Hey there! I run a small confectionary business called Nom-Nom's Candy.\n\n The demand for our sweets has been booming lately but all our candies are hand-made. Needless to say, we're running behind schedule and desperately need to optimize our production! We have a conveyor that hopefully will help us with packing the goods, but it needs to be trained to distinguish sweets by their kind.;
+UIKT;Candy production;Production de confiseries
+UIKSHORTT;Candy production;Production de confiseries
+UIKFROM;candynom@cat.meow;bonbonmiam@chat.miaou
+GETCHESIRE;Get a cat;
+GETCHESIRELINK;http://eepurl.com/c8mpOP;
+ER;Greetings!\n\nOur company Robocoffee is famous for its automated coffee machines. We want our coffee to be as exquisite as is famous Italian brews, but we're not quite there yet... Maybe a computer algorithm could help us master our recipes? Of course, mistakes will be made, but we're sure that something good will come out of it in the end!;
+ERT;Automatic coffee machines;Machines à café automatiques
+ERSHORT;Automatic coffee machines;Machines à café automatiques
+ERFROM;robobean@cat.meow;
+ERY;Good day to you,\n\nThis is the visa center of Krakozhia. We are sad to inform your that your application has not yet been processed. However, the background you have mentioned in your application form, made us want to offer you a job opportunity! We want to improve the efficiency of our center and speed up the process of reviewing the applications. An algorithm that could sort applications by the marks on them would do the trick! If we'd have this done by a machine, anyone seeking entrance to our glorious country could apply for a visa in a matter of minutes (instead of spending half a day at the visa center, as they're doing now).;
+ERYT;Visa center of Krakozhia;
+ERYSHORT;Visa center of Krakozhia;
+ERYFROM;yourvisa@cat.meow;
+WATCHYOUTUBET;Watch;Visionner
+WATCHYOUTUBE;Educational videos will quickly teach you the basics.;
+WATCHYOUTUBEURL;https://www.youtube.com/watch?v=RPvLgzEybJU&list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp;
+READONWIKIT;Read;Lire
+READONWIKI;Keep learning and read about how it works;Continuer d'apprendre et lire au sujet de son fonctionnement
+READONWIKIURL;https://en.wikipedia.org/wiki/Machine_learning;https://fr.wikipedia.org/wiki/Apprentissage_automatique
+LEARNPYTHONT;Learn Python;
+LEARNPYTHON;Learn to program in a language used by ML professionals around the world;
+LEARNPYTHONURL;"https://www.coursera.org/learn/learn-to-program;https://www.coursera.org/specializations/applied-data-science";
+LEARNCOURSERAT;Learn and practice;Apprendre et s'entrainer
+LEARNCOURSERA;Take educational courses and learn a lot of new things;
+LEARNCOURSERAURL;https://www.coursera.org/specializations/machine-learning;
+LEARNGOOGLET;Start your learning;Commencer l'apprentissage
+LEARNGOOGLE;View a simple machine learning overview course from a professionals of Google;
+LEARNGOOGLEURL;https://developers.google.com/machine-learning/crash-course/;
+WINKAGGLET;Code and practice;
+WINKAGGLE;Develop your skills and take part in competitions in machine learning. Remember that for the victory in some of them pay money;
+WINKAGGLEURL;https://www.kaggle.com/competitions?sortBy=grouped&group=general&page=1&pageSize=20&category=gettingStarted;
+POSTARXIVT;Explore and learn;Explorer et apprendre
+POSTARXIV;Write your own scientific paper. Move humanity forward;
+POSTARXIVURL;https://arxiv.org/;
+MAKINGMONEYT;Earn money!;
+MAKINGMONEY;The average salary of a specialist in machine learning in Google is 145,000 dollars;Le salaire moyen d'un spécialiste en machine learning employé chez Google est de 145.000 dollars
+MAKINGMONEYURL;https://www.kaggle.com/competitions?sortBy=grouped&group=general&page=1&pageSize=20&category=featured;
+NET0SHOP;CriCom network card;
+NET1SHOP;PP-Link GT-3482;
+SWITCHSHOP;Switch PRL;
+NET2SHOP;Kyrocea BI-33, 24428URL;
+OPTSHOP;Fiber optic cable;
+FOLLOWWHITERABBIT;Go deeper into ML step by step;
+SPEED_TEXT;km/h;km/h
+CROSSOVER_CHECKBOX;Crossover;
+KILL_PARENTS_CHECKBOX;Fast generation change;
+PARENTS_PERCENTILE;Percentage of selection;
+SPECIES_MUTATION_PROBABILITY;Species mutation probability;
+GENE_MUTATION_PROBABILITY;Gene mutation probability;
+POPULATION_SIZE;Population size;
+MUTATION_RATE;Mutation rate;
+RANDOM_SEED;Random seed;
+ITERATION_BEFORE_EVALUATE;Training steps;
+YOUR_SCORE;Your average speed;
+DLL;DLL;
+DLL SAVED AS;DLL saved as;
+YOUR_MONEY;Your AI cost;
+EPOCH_NUMBER;Epoch number:;
+GENETIC_EVOLVE;Evolve;
+AUTO_EVOLVE;Auto evolve;
+SPECIES_MUTATED;Species mutated:;
+GENES_MUTATED;Mean genes mutated:;
+STATS;Stats;Stats
+MEAN_SPEED;Mean speed:;
+STD_SPEED;Speed deviation:;
+ESTIMATED_COST;Estimated AI cost:;Estimation du coût de l'IA :
+GGH;"\nHey there!\n\nI am an inventor and I've spent years trying to create a new generation stealth suit. I plan to call it the Cry-suit. I think I'm on the verge of a breakthrough, but the particlse responsible for dynamic color adaptaion to the environment can malfunction occasionally and the camouflage is far from being perfect, as it is. Can you help me write an algorithm that will improve it?\n";
+GGHT;The Invisible matter;
+GGHSHORT;The Invisible matter;
+GGHFROM;invis@cat.meow;
+DPD;Greetings to you.\n\nWe are from the police. Don't worry, we're not going to press any charges (not at this time), but instead we're looking for help from you, if you're willing to cooperate. Our analysts are seeking for ways of improving our picture recognition systems. Long story short, we're looking for ways to improve the quality of pictures in order to be able to see even the smallest details. But we're kind of stuck as our program is just not good enough to recognize certain silhouettes. We would also like to improve the color restoration system, and combine those two, so they could work together. Can you help us out?;
+DPDT;Police Technology;
+DPDSHORT;Police Technology;
+DPDFROM;csi2048@cat.meow;
+ERTER;"Good afternoon.\n\nI'm a representative of the Assemble&Play art studio. We produce artisan goods, gaming & sports merchandise, along with other things. Among those are action figures, and those are quite complicated to manufacture. They include lots of small details and here at A&P, we want our production to be just perfect! Therefore, we could use an algorithm that would help eradicate mistakes during production and painting the details.\n\n";
+ERTERT;Art Studio;
+ERTERSHORT;Art Studio;
+ERTERFROM;a&p@cat.meow;
+RGR;"Greetings!\n\nWe represent the Fony corporation. As you may know, we are producing all kinds of electronics, but we're especially proud with our photo and video cameras. Our engineers are doing their best to ensure perfect color rendition for all of our optics. We're currently looking to hire a programmer who could help us create a color chip which could recognize colors and improve rendition with the least possible amount of mistakes. Please consider this message an official job offer for you.\n";
+RGRT;Perfect photo;
+RGRSHORT;Perfect photo;
+RGRFROM;fony4you@cat.meow;
+DLLUNLOCK;DLL unlock;
+DLLTUTORIALUNLOCK;New DLL slots can be bought in C-Bay;
+DLLTUTORIALS;DLL is basically a sandbox for schemes: create them, apply them in tasks, experiment as you wish!\n\nYou can use almost all kinds of blocks and as many inputs and outputs as you see on this screen\n\nKeep in mind that you only have one slot for DLL blocks by default: go to the shop to get more!;
+EVAL_PROGRESS;Evaluation in progress :;
+BLOCKS USED;Nodes used;
+CUSTOMS USED;Customs nodes used;
+TOO_MANY_SERVERS;Too many servers in the scheme for this task;
+TOO_MANY_CUSTOMS;Too many customs in the scheme for this task;
+TEACH_RUN;Supervised learning;
+USE_REPLAY;Use player replay;
+SPAM1;Need an advertisement campaign on the Internet? Are you creating your own brand? Pluto Buddy will help you!\nPluto Buddy service perfectly operates with the best techniques of direct marketing, which goal is to provide the best products and specialists to users! \nIf you have not yet subscribed to our newsletters with the coolest products - do not worry! Do not look for us, we will find you ourselves!;
+SPAM1T;Pluto Buddy;
+SPAM1FROM;plutobuddy@cat.meow;
+SPAM2;Today only!\nThe creator of quantum technologies and the founder of the company with the corresponding name, Pank Him, will hold a free educational webinar on quantum particles and quantum reduction technologies. Immerse yourself in quantum science, learn the secrets of quantum reduction and become a quantum science specialist!;
+SPAM2T;Free quantum technologies webinar!;
+SPAM2FROM;carrendross@cat.meow;
+SPAM3;"You are browsing on how to earn easy money and you still haven't found out how? You believe that bitcoin will flop soon? Are you tired of your boss? If you want to earn money, Grazzille will tell you how!\n""Alchemy"" service makes money almost out of air only! All you need is to open an account in our bank and see how your earnings grow. We will do everything for you, that's how the magic works!";
+SPAM3T;A legal way to earn money on the Internet! ;
+SPAM3FROM;grazzil_alchemy@cat.meow;
+SPAM4;You've always dreamt of going on a vacation but you've been afraid that you will make a mistake in planning it? With Noobtours assistance, this will never happen to you! Webinars and meetups with experienced travellers. We will teach you to plan your journeys and offer already fully scheduled trips to warm countries: Embir, Cracosus, Vudia, Nibiia and many other places are waiting for you! ;
+SPAM4T;Hot tours for travelling newbies!;
+SPAM4FROM;noobtours@cat.meow;
+STAYAWHILE;Stay awhile and take survey;
+SOCIALSURVEY;Spend 5 seconds to fill out our anonymous survey and get a unique kitty;
+TAKESURVEY;Take Survey;Participer au sondage
+DISCORD_URL;https://discord.gg/W8KhjSf;
+SURVEY_URL;https://docs.google.com/forms/d/e/1FAIpQLSdC84Wly04p77yzXf8jYybEntVMRffe_xz2J7tc1KtnOTrV4Q/viewform;
+BATHYSCAPHEPROMO;The cat was unlocked;Le chat a été débloqué
+FEEDBACATPROMO;The cat was unlocked;Le chat a été débloqué
+PZRCATPROMO;The cat was unlocked;Le chat a été débloqué
+USEINRELEASE;Use in release;
+CROSSOVER_POPUP;Improves AI learning speed;
+KILL_PARENTS_POPUP;Improves AI learning speed, reduces stability;
+POPULATION_SIZE_POPUP;Improves AI learning stability, reduces learning speed;
+RANDOM_SEED_POPUP;Affects on initial level configuration;
+MUTATION_RATE_POPUP;Increases mutation effect;
+TRAINING_STEPS_POPUP;Improves AI learning stability, might reduces learning speed;
+PARENTS_PERCENTILE_POPUP;Improves descendants diversity;
+SPECIES_MUTATION_PROBABILITY_POPUP;Prevents AI stagnation;
+GENE_MUTATION_PROBABILITY_POPUP;Prevents AI stagnation;
+SHOW_IN_ROOM;Show in room;
+OTHER;Other;
+HIDE_IN_ROOM;Hide in room;
+TEACH_PROGRESS;Recording...;
+POSSIBLE_RESULT_TASK;Estimated result;
+RESULT_TASK;Final result;Résultat final
+smartphone2SHOP;Sumsunq X456;
+smartphone2DESCR;New generation of the Sumsunq;
+smartphone3SHOP;YouPhone;
+smartphone3DESCR;Buy it and be cool;
+room3SHOP;Kindergarden decor;
+room3DESCR;Eternal childhood;
+room2SHOP;Hawanian room decor;
+room2DESCR;Sweet Dreams;
+flower1SHOP;Cactus;
+flower1DESCR;Protects from radiation;
+flower2SHOP;Aloe;
+flower2DESCR;Does nothing. Has TESV: Skyrom pre-intsalled. Mandatory for purchase.;
+flower3SHOP;Lawn on the shelf;
+flower3DESCR;Good for generating oxygen in the room;
+flower4SHOP;Cat's joy;
+flower4DESCR;In case you run out of food;
+mouse3SHOP;"AGITECH ""Angry tomato""";
+mouse3DESCR;Increases aim in games;
+mouse2SHOP;ORCLICK Q903;
+mouse2DESCR;Comfort & usability;
+hair2SHOP;"""Fade"" haircut";
+hair2DESCR;Held your hand over the head and hairstyle is ready;
+hair3SHOP;"""Grunge"" haircut";
+hair3DESCR;Stylish, modern. Sadly no one can see it;
+hair4SHOP;Messy haircut;
+hair4DESCR;The main thing that isn't within the mind;
+blackPlayerSHOP;"Shirt ""Jucci""";
+blackPlayerDESCR;True classic;
+bluePlayerSHOP;Plaid shirt;
+bluePlayerDESCR;Be like a hipster;
+greenPlayerSHOP;"Turquoise ""Macoste"" polo";
+greenPlayerDESCR;Merge with a wave;
+chair2SHOP;"Chair ""Like a boss""";
+chair2DESCR;Feel like a boss;
+chair3SHOP;"""President"" armchair";
+chair3DESCR;For the best dictators of the world;
+R/G DIVIDE 50%3 BLOCK;RedBlue/RedGreeen;
+C/S/T SORT2 BLOCK;Sorting the shape and color;
+R/G/B MACHINE SORT2 BLOCK;Two outputs. Perceptron and DSSHAPE;
+R/G/B MACHINE SORT3 BLOCK;DSSHAPE and Perceptron ;
+ONLY SQUARE 60%3 BLOCK;DSSHAPE and DSTREE;
+GENETIC DIVIDE2 BLOCK;GreenBlue/All/All;
+C/S/T SORT1 BLOCK;Sorting the shape and color;
+LOWVIDEO;Ultra graphics quality;
+HIGHVIDEO;Ultra performance;
+EXPERT SYSTEM NEWS;1965 can be considered a peculiar starting point for the work on the creation of expert systems. In that year, scientists from the Stanford Research Institute, Edward Feigenbaum and Bruce Buchanan, teamed up with Nobel laureate Joshua Lederberg and began to create a computer system, designed to determine the molecular structure of chemical compounds.;
+EXPERT SYSTEM NEWST;The history of Expert Systems;
+EXPERT SYSTEM NEWSFROM;newspartal@cat.meow;
+DSS NEWS1;A Decision Tree is a method of is one of the automatic data analysis methods. The first ideas of creating Decision trees date back to the works of Hoveland and Hunt in the late 50s of the 20th century. However, the fundamental work that gave impetus to the development of this direction was the book Hunt, Marin and Stone Experiments in Induction, which was published in 1966.;
+DSS NEWS1T;Who invented the Decision tree?;Qui a inventé les arbres de décisions ?
+DSS NEWS1FROM;newspartal@cat.meow;
+RNN MAFIA;"Good day, this is Interpool.\n\n A large investigation, which we held for almost five years, practically lead us to the head members of the Russian mafia. Unfortunately, our agents were revealed during the transfer of important information, the phones of the head mobster. The bandits tried to destroy the data, but our specialists managed to save most of the information.\n However, this is still not enough. Many numbers are damaged, they miss parts of the numbers: 790088 * 1121; 79006 * 61122; 7 ** 08881123; 79008881124; 79006663 ** 5; 79 ** 888 \nWe need a working algorithm that will be able to recover the corrupted data, and the last number in particular! It can be the key to the completion of a long investigation.";
+RNN MAFIAT;List of important numbers;
+RNN MAFIASHORT;List of important numbers;
+RNN MAFIAFROM;Interpool@cat.meow;
+ML ANIMALS NEWS;American scientists managed to develop a computer method for detecting the toxicity of chemicals, which surpasses the accuracy of experiments on animals.\n To create it, they used binary similarity coefficients, and the system itself was trained on information on more than 866 thousand dangerous properties of chemicals which are commonly used in different experiments.;
+ML ANIMALS NEWST;Machine learning will help the animals!;
+ML ANIMALS NEWSFROM;ml_from_animals@cat.meow;
+APP DEV;Hello! We are the GetBrains company.\n\nOur activities are entirely based on the development, each deadline is a burning one, and it is very important for us to keep within the deadlines. Under such conditions, it is simply impossible to avoid mistakes. To help the developers, we need an ML system that will find and help eliminate semantic errors in the code.\n Can you help us?;
+APP DEVT;Help the developers;
+APP DEVSHORT;Help the developers;
+APP DEVFROM;GetBrains@cat.meow;
+LOWGRAD_TITLE;Vanishing gradient;
+LOWGRAD_BODY;The problem of 'Vanishing gradient' is a big problem in the process of training deep neural networks, especially recurrent neural ones. Passing through a number of layers of the network, the gradient becomes so small that it stops changing the weights of the network and the network stops learning. \n\nThere are several ways to solve this problem. One of those is using shortcuts (Gates) to pull the gradient through the network layer. \n\nAs a result of applying this method, the LSTM layer (Long Short Term Memory) was made, which allows realizing short-term and long-term memory of the network.;
+FEEDBACKCAT;An analyst;
+FEEDBACKCATDESCR;Do not skip math classes;
+FEEDBACKCATPROMOTEXT;For the great feedback;
+SIFT_OBJ_DETECT_BLOCK;Detects objects;
+SIFT_OBJ_DETECT_NAME;SIFT : Object detection;
+MSEC;msec;
+ISOBJECT_GAME;Gets the unrecognized data on the input and classifies them as either an Object or as a Road\n\nObjects go to the upper socket, Roads to the bottom;
+ISOBJECT_WIKI_URL;http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_sift_intro/py_sift_intro.html;
+ISOBJECT_YOUTUBE_URL;https://www.youtube.com/watch?v=oKAnOzIu66c;
+ISOFOREST_GAME;If the element satisfies both conditions, then it goes to the upper socket, otherwise to the bottom;
+ISOFOREST_WIKI_URL;https://blog.easysol.net/using-isolation-forests-anamoly-detection/;
+ISOFOREST_YOUTUBE_URL;https://cds.cern.ch/record/2030962;
+ISOFOREST_COURSERA_URL;https://www.youtube.com/watch?v=5p8B2Ikcw-k&feature=youtu.be;
+ISOFOREST_HISTORY;Isolation forest is one of the simple algorithms for detecting anomalies.\n\nSame as the Decision tree and the Random forest, Isolation forest distributes the incoming elements into the leaves of the trees. The fewer 'questions' it took to separate an element from the rest, the more anomalous it is considered to be.;
+TUNE;Tune;
+CAR_TEST_RUN_COMPLETE_HEADER;Test run : Complete;
+ISOFORESTSHOP;Isolation forest;
+ISOFORESTDESCR;Anomaly detector;
+ISOFOREST;Isolation forest;
+ELEMS_HIER1;Recognizing objects;
+ELEMENT_HIRE_TEXT1;In <color=#ffbd18>reinforcement learning</color> tasks, nodes work in a bit different way\n\n All data is initially unspecified and your task is to recognize it and transmit it to RL Agent (the AI);
+ELEMS_HIER2;Elements hierarchy;
+ELEMENT_HIRE_TEXT2;Nodes distinguish one or more types of data, and also process them in different ways. Type, correlation and quality of the data that will be received by the model of the machine are what its learning process and the data procession result are depending on. ;
+ELEMS_HIER3;Data quality;
+ELEMENT_HIRE_TEXT3;Some types of data are complex, and simple nodes cannot accurately recognize what they are but are able to refer them to a generalized group. To determine the exact classes, you will need to use more complex nodes \n\nRemember that it is not always advantageous to recognize objects in as much detail as possible;
+MEETML1;Training model;
+MEETML_TEXT1;At this screen you will be testing your AI\n\nAI acts based on the data you've been recognizing when building your scheme;
+MEETML2;Training and testing;
+MEETML_TEXT2;Here you can see the training, test and release runs \n\nTrain your car, test it and release it!;
+MEETML3;Learning options;
+MEETML_TEXT3;All possible behavior patterns of your car are the 'specimen' (or, in terms of machine learning, 'solutions') of your 'population'\n\nIn this section you can set up parameters of the 'population'\n\nThere are only 2 of them for now, but you'll see more in next levels;
+MEETML4;Supervised run;
+MEETML_TEXT4;At this stage you can teach the AI to recognize objects but this is not proper machine learning yet\n\nThis is why, having created a scheme, you can manually train your AI to drive\n\nUse WASD or arrow keys to drive and AI will try to reenact your moves afterwards;
+MEETML5;Driving a car;
+MEETML_TEXT5;Here you can see how AI controls the car\n\nGreen zone in the front (called 'Lidar') shows what your AI 'sees' \n\nInformation about obstacles comes from your recognizing algorithm. Without this data AI will be virtually blind and won't be able to tell one object from another\n\nOn the right you can see the AI's decisions visualized;
+GENETIC_POPSIZE1;Population and selection;
+GENETIC_POPSIZE_TEXT1;Each iteration of learning (an 'epoch') contains several  solutions (regulated by 'population size' parameter)\n\nAt the end of an epoch only the best solutions get to survive and multiply ('selection percentile' parameter);
+GENETIC_POPSIZE0;Genetic algorithm;
+GENETIC_POPSIZE_TEXT0;"Genetic algorithm is a subcategory of supervised learning method\n\nIt works pretty much like natural selection does in real life\n\nThe 'species' cross-breed, multiply and mutate: in theory, after many iterations this could give birth to the perfect ""specimen"" (or so we hope)";
+GENETIC_POPSIZE2;Starting generation;
+GENETIC_POPSIZE_TEXT2;Genetic algorithm is not too stable (pretty much like natural selection)\n\nSo if you feel that your car is not making much progress, you can try to generate a new population\n\nJust make sure to not overuse this feature;
+GENETIC_MUT;Mutations;
+GENETIC_MUT_TEXT;At the end of an epoch solutions can mutate. The probability of this is regulated by 'species mutation probability' parameter\n\nWhen a solution mutates, several 'genes' from its 'chromosomes' are selected and altered\n\nThis process is regulated by 'gene mutation probability' parameter;
+TYPE;Type;
+REC_ACC;Recognition accuracy;
+GENETICCART0T;Reinforcement learning 1;
+GENETICCART0SHORT;Reinforcement learning 1;
+GENETICCART0FROM;notacat@meow.cat;
+GENETICCART0;Helow,\nYouz maek good car. But why humanz draiv car to tune it? Pleaz make computerz learn itselve, we don’t haz many human driverz but we haev many carz\nYourz, Dr. Meo W. Katz, Human person;
+NEW_RANDOM_SEED;Set new seed;
+GENETICCART1T;Reinforcement learning 2;
+GENETICCART1SHORT;Reinforcement learning 2;
+GENETICCART1FROM;notacat@meow.cat;
+GENETICCART1;"Helow,\nThankz for making a car. Kan you pleaz improv the car now? Iz making mistakes when too many carz on road\n\nYourz, Dr. Meo W. Katz, Human person\n";
+GENETICCART2T;Reinforcement learning 3;
+GENETICCART2SHORT;Reinforcement learning 3;
+GENETICCART2FROM;notacat@meow.cat;
+GENETICCART2;Helow,\nCar drivez good when strait, thank yous! But bumpz into things from the saeds and behaind, other carz and such. Catz get scaerd. Can pleas make carz recognaiz things from othe directions?\nYourz, Dr. Meo W. Katz, Human person;
+GENETICCART3T;Reinforcement learning 4;
+GENETICCART3SHORT;Reinforcement learning 4;
+GENETICCART3FROM;notacat@meow.cat;
+GENETICCART3;Helow,\nYouz maek veery good AI! But doez not good on wide roadz :( :( :( Can you maek carz drive highwaes so our catz could go meet thear frendz from other towns?\nYourz, Dr. Meo W. Katz, Human person;
+TARGET_SPEED;Target average speed;Vitesse moy. de la cible
+GENETIC_CAR0 BLOCK;Road \ object SIFT1;
+GENETIC_CAR1 BLOCK;Road \ object SIFT2;
+GENETIC_CAR2 BLOCK;Basic Front-Side 1;
+GENETIC_CAR3 BLOCK;Basic Front-Side 2;
+MEETML6;Target average speed;Vitesse moyenne de la cible
+MEETML_TEXT6;The goal in this type of tasks is to make the AI clever enough to be able to reach the target average speed level;
+ENVIRONMENT;Environment;Environnement
+ROAD;Road;Route
+OBJECT;Object;Objet
+ROAD_BORDER;Road border;
+CAR;Car;Voiture
+UNKNOWN;No info;
+CAR1;Passenger car;
+CAR2;Truck;
+CAR3;SUV;
+SHOP_TUTORIAL1;Store;
+SHOP_TUTORIAL_TEXT1;Hey, have you seen our shop yet?\n\nWhy earn money if you’re not spending money?\n\nWe’ve got cool hardware to boost your schemes, new blocks, cat outfits, even an aloe (and much more)!\n\nCheck out our wares!;
+WHSHOP;"""Banhammer"" miniature";
+WHDESCR;Cat marine;
+REVIEW1;Would you please rate the game? Feedbacks are important and empower our cats!\n\nThank you;
+REVIEW2;Maybe you could elaborate in a short review on our page? Just a couple of words and a thumbs-up would make us a bery happy bunch of developers;
+REVIEW3;No one’s perfect and we totally get it. But maybe you could spill the beans on what you didn’t like so much on our Discord server?\n\nWe know we can make the game better, but without your feedback it’d be so much harder...;
+REVIEW4;4 out of 5 is tremendous, thank you! But would you maybe share your thoughts on what we need to get that one last star that got away?\n\nWe’ve got a cozy Discord server to discuss the game with our players, don’t hesitate to come by!;
+REV_HEADER1;Cat roasting time!;
+REV_HEADER2;Wow, 5 cats! Thanks!;Wow, 5 chats ! Merci !
+REV_HEADER3;It's OK! ;C'est d'accord !
+REV_HEADER4;Almost there!;
+SENDANALYTICS;Send;Envoyé
+WTL_LINK;https://store.steampowered.com/app/619150/#review_create;
+MEDAL_TUTORIAL_TEXT1;Your efficiency is measured not just in money, but with medals, too! Medals have influence on your story progression (while boosting your self-esteem at the same time!)\n\nYou can improve your result later on;
+MEDAL_TUTORIAL1;Of medals;
+MEDAL_TUTORIAL_TEXT2;Better medals means more money for completing a task.\n\nIt also affects the story\n\nImportant note: although you will be able to replay a level and get a better medal later on, you won't be getting extra money for that;
+MEDAL_TUTORIAL2;Money;Argent
+MEDAL_TUTORIAL_TEXT3;Depending on the number of points obtained per epoch, you will reach different successes in deciphering your cat's speech!\n\nIf the results you end up with do not go well with you, you can improve the results of the epoch by replaying the levels and receiving additional points in additional tasks;
+MEDAL_TUTORIAL3;Science;Science
+G/B DIVIDE;Good day, we're from a public school.\n\nSummer exams have passed here already, the results are attached to the letter. Could you process it and predict which of the students will be able to enter the MIT?;
+G/B DIVIDET;Applicants;
+G/B DIVIDESHORTT;Applicants;
+G/B DIVIDEFROM;Spanishschool@cat.meow;
+G/B DIVIDE BLOCK;G/B Divide;
+CLOSE;Close;Fermer
+CTRLZ_CTRLY;Undo / Redo;Annuler / Rétablir
+CTRL+Z;Ctrl+Z;Ctrl+Z
+CTRL+Y;Ctrl+Y;Ctrl+Y
+welovegamesPROMO;The cat was unlocked;
+SET_DEFAULT_POPUP;Restore all parameters to default values and reset car AI;
+REFRESH_AGENT_POPUP;Reset car AI without changing any parameter;
+SET_DEFAULT_ATTENTION;Do you really want to restore all parameters to default values and reset car AI?;
+REFRESH_AGENT_ATTENTION;Do you really want to reset car AI?;
+SAVEGAMETYPEHD;Do you really want savegames to be stored on local hard disk?;
+SAVEGAMECAUTIONHD;Disabling cloud save won't allow savegames to move between devices!;
+SAVEGAMETYPECLOUD;Do you really want to upload savegames to cloud?;
+SAVEGAMECAUTIONCLOUD;Enabling cloud save will allow savegames to move between devices.;
+RNA VIRUS;"Good day, I am representing a Center of Virology. \n\nWe heard that you are taking part in scientific projects, so we decided to contact you.
+We are studying a dangerous virus that is prevalent in African countries. We managed to stop its spreading for a while, but this virus is characterized by frequent evolution and we have to start everything from scratch over and over again in order to put an end to it. We want to create an algorithm for predicting virus' evolution based on the change in its two structures. \nWe have all the accumulated data, but we need your help!";
+RNA VIRUST;Center of Virology;
+RNA VIRUSSHORTT;Center of Virology;
+RNA VIRUSBLOCK;RNA;
+RNAFROM;centervirus@meow.cat;
+EPOCH_LIMIT;Epochs quantity available to train;
+LIDAR_1;Front lidar;
+LIDAR_0;Left lidar;
+LIDAR_4;Right lidar;
+LIDAR_3;Behind lidar;
+TRAIN_INACTIVE_POPUP;The maximum number of epochs has been reached;
+ARMA_GAME;ARMA, this block predicts the continuation of numerical sequences \n\nAdditional ARMA colors the output elements in colors if the quality of the prediction is high \n\nSometimes to achieve this quality, several ARMA blocks are required;
+ARMA_WIKI_URL;https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model;
+ARMA_YOUTUBE_URL;https://youtu.be/Pg0RnP1uLVc;
+ARMA_COURSERA_URL;https://ru.coursera.org/lecture/practical-time-series-analysis/arma-properties-and-examples-VyVm0;
+ARMA_HISTORY;ARMA is a special machine learning model, specifically adapted to work with time-dependent numerical data.\n\nIt can predict future indicators basing on a set of previous values. It is often used in economics, for example, to predict exchange rates.;
+ARMA;ARMA;
+CUSTOM_LIDAR_HEADER;Lidar settings;
+ISCAR;SIFT: Classification of objects;
+dayzruPROMO;The cat was unlocked;
+AAVAKPROMO;The cat was unlocked;
+STOP_TRAIN_ATTENTION;Your model has achieved the target speed level. Further learning will not improve the model but might make it more expensive;
+LIDAR_SCHEME_TUT_BODY;On most levels you'll have access to several lidars (the front and the side ones). Data from each of them can be processed separately;
+LIDAR_SCHEME_TUT_TITLE;Lidars;
+LIDAR_TUT_TITLE1;Field of view customization;
+LIDAR_TUT_BODY1;You can edit the AI's field of view by adding or removing lidars from the slots\n\nAdding more lidars will make learning more effective (and more expensive as well);
+LIDAR_TUT_TITLE2;Technics;
+LIDAR_TUT_BODY2;You can use different Lidars to customize the machine\n\nMore powerful machines work better, but require more servers for making calculations\n nEach type of Lidar can be installed in any slot. Depending on the slot, Lidar grants different advantages.;
+CROSS_TUT_TITLE;Crossover;
+CROSS_TUT_BODY;Before this stage, your 'specimen' could only mutate and multiply\n\nCrossover allows two species to cross-breed and produce offsprings who will inherit both parents' traits;
+FAST_GEN_TUT_TITLE;Fast change of generations;
+FAST_GEN_TUT_BODY;This setting will allow you to create more 'children' in each era by destroying 'parents'.\nIt will increase the speed of evolution, but will reduce the stability of learning.;
+MUTATION_RATE_TUT_BODY;Mutation rate defines how drastically a gene will change\n\nFeel free to experiment with it!;
+MUTATION_RATE_TUT_TITLE;Mutation rate;
+LEFT_LIDAR_STATS;Left lidars statistic;
+FRONT_LIDAR_STATS;Front lidars statistic;
+BEHIND_LIDAR_STATS;Rear lidars statistic;
+RIGHT_LIDAR_STATS;Right lidars statistic;
+ARMA COLOR;Hello!\n\nI am working in the well-known Rorex exchange company, we are engaged in currency transactions. I am bout to be promoted to the head of one of the projects, the main goal of which is to accurately predict the rate of a certain currency at the time of our need. The forecast should be made for a short-term period. \nCan you write such a program for us?;
+ARMA COLORT;Rorex Company;
+ARMA COLORSHORTT;Rorex Company;
+ARMA COLORFROM;rorex_company@meow.cat;
+SAVEGAMEPROBLEM;We were unable to load this save game correctly;
+SAVEGAMECORRUPTED;Corrupted Savegame detected;
+ARMA_FULL_NAME;ARMA (autoregressive moving-average model);
+ISCAR_GAME;Processes Objects to categorize them as a Car or a Road Border\n\nIf a piece of data is not an Object, the data will be corrupted\n\nCars are sent to the upper slot and Road Borders - to the lower;
+NON_ML_CAR;Helow,\nWe iz a society of peoplz who love cats. We wantz our cats to haz oll the best. We wantz catz to drive cars with no humans insaed. But catz have no hands catz has paws. Kan yous make a car that self drive?\nYourz, Dr. Meo W. Katz, Human person\n\np.s. pleaz excuz our gramar, we ar not catz we ar humanz but we cant type well becuz we has paws and no handz. Terribl car accident, bad surgeree. Iz why we need a selv drivink carz haha;
+NON_ML_CART;Reinforcement learning 0;
+NON_ML_CARFROM;notacat@meow.cat;
+NON_ML_CAR BLOCK;Road \ object SIFT;
+STOP_TRAINING_ATTENTION;AI finished training;
+ONLY_TEACH_RUN_TEXT;"1. Launch ""Supervised run"" and drive the car manually to record your actions (pay attention to what your vehicle ""sees"" on the lidars) \n\n2. Launch ""Learning"", so the machine learning algorithm would try and reiterate your actions\n\n3. Experiment!\n\n4. Test!\n\n5. Release it and earn some cash!";
+FAST TEXT COPY1 BLOCK;RNN + RNN;
+INFO;Information;
+SAVESSYNCTOCLOUD;Would you like to upload local savegames to cloud now?;
+SAVESSYNCTOCLOUDINFO;This might take some time depending on the savegame count.;
+INPUT;Input stream;
+EXAMPLE_QUERY;How to learn ML;
+EXAMPLE_AUTHOR;Nagibator666;
+EXAMPLE_MESSAGE;Use this shit;
+REPLAYFINISHED;Replay Finished!;
+REPLAYFINISHEDINFO;Replay finished with no errors;
+LEARN_BLOCK_1;Continue;
+LEARN_BLOCK_2;Go to task list;
+LEARN_BLOCK_3;Continue;
+LEARN_BLOCK_4;Continue;
+LEARN_BLOCK_5;Continue;
+LEARN_BLOCK_6;Continue;
+LEARN_BLOCK_7;Continue;
+EXAMPLE_HEADER;Theme name;
+BAG_OF_WORDS;Bag of words;
+SAVEGAMECLOUDONLY;Your latest savegame was stored in the cloud but now the cloud seems to be disabled!;
+SAVEGAMECLOUDONLYINFO;Cloud is unavailable and local savegames will be used instead. Please enable cloud service or restart Steam.;
+SAVEGAMELOCALONLY;Your latest savegame was stored locally and Steam cloud is now available.;
+SAVEGAMELOCALONLYINFO;Would you like to upload local savegames to the cloud now? Existing saves will be overwritten!;
+CBW_SOMETHING_WRONG;Seems like something goes wrong;
+CBW_TRY_AGAIN;Try again;
+OUTSTARPROMO;The cat was unlocked;
+CB_WRONG_CONNECT;Seems like something connected wrong;
+CB_NOT_ALL_CONNECTED;All sockets must be connected;
+RESEARCH_PROGRESS;Cat speech recognition system:;
+ANTIQ_TASKT;Recognizing cat on pictures :;
+BASIC_TASKT;Recognizing basic cat emotions :;
+GENETIC_TASKT;Improved recognition of cat emotions :;
+NEURAL_TASKT;Recognizing cat speech :;
+DEEPL_TASKT;Improved recognition of cat speech and emotions :;
+ANTIQCT;Time flies!;
+BASICCT;Time flies!;
+GENETICCT;Time flies!;
+NEURALCT;Time flies!;
+DEEPLCT;Time flies!;
+ANTIQC;You have reached the end of the epoch! Click on one of the medals to proceed further in the story;
+BASICC;You have reached the end of the epoch! Click on one of the medals to proceed further in the story;
+GENETICC;You have reached the end of the epoch! Click on one of the medals to proceed further in the story;
+NEURALC;You have reached the end of the epoch! Click on one of the medals to proceed further in the story;
+DEEPLC;You have reached the end of the epoch! Click on one of the medals to proceed further in the story;
+EXPERT_PROGRESS;;
+SKIP_COMICS;Skip;
+COMPLETE_COMICS;Continue;
+ENTER_REQUEST;Enter search request...;
+FORUM_AUTHOR1;DogdayZ;
+FORUM_AUTHOR2;DrCoder;
+FORUM_AUTHOR3;he11R@iZ3R;
+FORUM_AUTHOR4;DawKINGz;
+FORUM_AUTHOR5;WatsonVSCrick;
+FORUM_AUTHOR6;DCobb;
+FORUM_MESSAGE1_1;Hey everyone, can you believe my cat? That little devil has debugged my code. Again. He definitely has something to say, so I decided to make some sort of… err… device which would help me understand him? Give me advice, wish me luck maybe?\n\nP.S. I’m not insane, my mom had me tested.;
+FORUM_MESSAGE1_2;Don’t rush ahead of yourself: making a device that would be able to detect the cat would be a nice start. You can work with video, sounds etc. when the time is right;
+FORUM_MESSAGE1_3;Heyyyy, a couple of days ago I’ve been reading about how <color=#f05f4a>expert system</color> can be applied for detecting animals and writing chat bots! The newspaper was called <color=#f05f4a>Deep News</color>, I’ll be sending you my copies once I’m done with them.;
+FORUM_MESSAGE2_1;Hey is there any way to detect the cat WITHOUT using expert systems? It works for texts but with pictures... Not so much. Furthermore, that cat just wont sit still :(;
+FORUM_MESSAGE2_2;That it does (not)... Try decision trees then! Those are like expert systems but on steroids. Once you feel comfortable around them, try SIFT: this little devil is way more effective with pictures. Also works nicely when paired with other algorithms!;
+FORUM_MESSAGE2_3;or u can use nails or glue or smth... cmon is just a cat it wont fight u back .. ijk pls dont use anythin I mentioned on an actual cat;
+FORUM_MESSAGE3_1;heya, so I’ve managed to make my computer detect the cat. but that beast is a complicated soul, it definitely has more to tell. maybe it's time to go next level and start recognizing emotions...;
+FORUM_MESSAGE3_2;ever heard of perceptrons? they were invented in the 60s to recognize written text. everyone knows that everything invented in the sixties is awesome by default: the double helix, rocknroll, lava lamps!;
+FORUM_MESSAGE3_3;also you can maybe switch to dogs instead of cats? decision trees worked like a magic for my Pluto! Only you need to use multiple trees… like a forest (that's why it's called 'random forest' duh);
+FORUM_MESSAGE4_1;okay, Ima out of ideas. half a time the cat’s emotion is recognized as ‘proud & classy’ it’s the time my cat is usually licking unspeakable parts of its body… I guess it feels real classy while doing so, but what if im wrong?;
+FORUM_MESSAGE4_2;Try the genetic algorithm, genes rule! Wait, or was it ‘gin’? Or maybe a ‘genie’... Gotta check it out;
+FORUM_MESSAGE4_3;Genetic algorithm is the answer! but you’d need multiple cats to properly train it.;
+FORUM_MESSAGE4_4;geez u guys are so stuck in the 80s. @Player come back when you sick of waiting for millions of years while natural selection works its magic. Worked with carbon-based lifeforms, didnt it?;
+FORUM_MESSAGE5_1;Gotta admit @DrCoder was probly right: this genetic algorithm is just too clumsy. especially now, when I'm starting to work with speech recognition...;
+FORUM_MESSAGE5_2;hey cmon, you haven’t even waited for a year! have some respect towards the Natural Selection, why don’t you!;
+FORUM_MESSAGE5_3;yeah, they've made a lot of improvements to perceptrons since old man Rosenblatt was around... now they tend to join multiple perceptrons in big bad neural networks. something like that could work for you but don't forget gradient descent: it's like a life coach for your 'neurons', helps them keep on the right track;
+FORUM_MESSAGE6_1;Not sure if I’m on the verge of a breakthru or completely stuck. The cat talks! But all I'm getting seems to be a random set of words... Is there a way to get at least one-two sentences out of it?;
+FORUM_MESSAGE6_2;Chill out. The Internet has taught you well, now is the time for ultimate trial! Try deep neural networks (ARMA, RNN etc.), they work good with speech, emotions and predicting things like that. Should work;
+FORUM_MESSAGE6_3;We need to go deeper!;
+FORUM_MESSAGE6_4;Who was dat guy?;
+FORUM_QUERY1;how to recognize animal speech;
+FORUM_QUERY2;how to recognize a cat in the picture;
+FORUM_QUERY3;animal emotions recognition;
+FORUM_QUERY4;complex emotions recognition;
+FORUM_QUERY5;animal speech recognition;
+FORUM_QUERY6;wth am I doing now pls help;
+FORUM_MESSAGE1_4;Hey again, I’ve tried that expert system and it hardly makes any sense… Squares are floating from left to right, is that what’s the fuzz is all about the machine learning? Are you guys actually working there?;
+FORUM_MESSAGE1_5;This is called ‘visual programming’, my fellow dude! Yes, this is how it’s supposed to work: the expert system analyzes your data input (from the camera) and checks if there’s a cat on them. No, it’s not what machine learning is all about, it will get to hardcore soon enough!;
+FORUM_HEADER1;Recognizing animal speech?;
+FORUM_HEADER2;Finding a cat in the picture;
+FORUM_HEADER3;Cat emotions recognition;
+FORUM_HEADER4;Cat emotions recognition: part 2;
+FORUM_HEADER5;Cat speech recognition: how to?;
+FORUM_HEADER6;Cat speech recognition: out of ideas;
+COMICS_PROGRESS_BRONZE;Scores to bronze;
+COMICS_PROGRESS_SILVER;Scores to silver;
+COMICS_PROGRESS_GOLD;Scores to gold;
+COMICS_TUTORIAL_HEADING1;Git Gud!;
+COMICS_TUTORIAL_BODY1;Coding is hard, ok? So, if you want to understand that cat’s speech properly, you better earn yourself some gold medals!\n\nAt the end of each era, you’ll unlock up to three possible endings, depending on your performance. Don’t worry: you can always improve your score by re-playing certain levels at any time\n\nClick on the medal to see this era’s ending!;
+COMICS_TUTORIAL_HEADING2;Git Gud!;
+COMICS_TUTORIAL_BODY2;At the end of each era, you’ll unlock up to three possible endings, depending on your performance.\n\nDon’t worry: you can always improve your score by re-playing certain levels at any time;
+COMICS_TUTORIAL_BODY3;Click on the medal to see this era’s ending!;
+FIRST_TREE_TUTORIAL;Behold the Task Tree!\n\nThis is the map of your progression in the game. Vertical progression stands for story quests, horizontal branches are optional.\n\nIcon colors stand for different types of machine learning techs used in respective tasks.\n\nSounds pretty simple (or so we hope);
+FIRST_TREE_TUTORIAL_TITLE;Freelance and practice;
+ATTENTIONCB;Attention;
+DRAGLINETUTORIALSTARTGAME;To become a programmer, you must master your art of turning the computer on!\n\nClick on the flashing triangle and drag to connect the power outlet with your PC, screen and keyboard\n\nPress 'Deploy'\n\nCongratulations, you're (almost) a programmer now!;
+CB_NOT_ALL_CONNECTEDSTARTGAME;You need to plug in the hardware to start working!;
+TUTORIAL_EXPERT_LEARNT;Training: Expert Systems;
+TUTORIAL_DSTREE_LEARNT;Training: Descision Trees;
+TUTORIAL_ROSENBLATT_LEARNT;Training: Rosenblatt's Perceptron;
+TUTORIAL_GENETIC_LEARNT;Training: Genetic Algorithm;
+TUTORIAL_PERCEPTRON_LEARNT;Training: Perceptrons;
+TUTORIAL_RNN_LEARNT;Training: RNN;
+FORUM_RUN_:;Run:;
+R/B DIVIDE_DATA_2;Input from camera;
+FORUM_MESSAGE1_6;well, I’m not very good at it yet, apparently. Any ways for me to practice?;
+FORUM_MESSAGE1_7;"I’m working as a freelancer and the amount of contracts is crazy! I’ll forward you some routine jobs I don’t have time too, it will help you get on your feet (and earn some cat-bucks as well!). Check your mail now ;)\n\nP.S. You're still paying for the servers tho";
+FORUM_MESSAGE1_8;Hey @Player, noob advice: there’s an autohelp for each new technology, very convenient. I’ve turned it on for you now. No need to thank me. But you probably want to change your password, ‘Mycattalks123’ is pretty obvious;
+DSTREE_SCHEME BLOCK;R/B tree divide;
+G/B DIVIDE_DATA_2;Exam Results;
+WITHOUT BLUE_DATA_2;Profile data;
+ONLY RED_DATA_2;Profile data;
+ONLY RED FAST_DATA_2;Profile data;
+DSTREE_SCHEME_DATA_2;Camera feed;
+ONLY RED FAST1_DATA_2;Cargo's data;
+ONLY RED FAST2_DATA_2;People behavior data;
+ONLY TRIANGLE_DATA_2;Scans of ancient documents;
+ONLY TRIANGLE1_DATA_2;Egg's data;
+CAR_PROCESSOR;RL Agent;
+OUTPUT;Output stream;
+FORUM_MESSAGE2_4;also feel free to boost your gear: parallel calculations on multiple servers work smoothly if you can afford it. and don't ditch those decision trees & SIFTs just yet: when combined, results of their work can surprise you;
+R/B DIVIDE_RESULT_1;Photos with cat;
+R/B DIVIDE_RESULT_3;Photos with no cat;
+RNNCOLOR BLOCK;ARMA R/G;
+STICKER_GOAL_0;Goal:\nLearn how to detect the cat in the pictures;
+STICKER_GOAL_1;Goal:\nRecognize cat emotions;
+STICKER_GOAL_2;Goal:\nRecognize complex emotions\n(sarcasm & such);
+STICKER_GOAL_3;Goal:\n'Meow' -> \nHuman Language;
+STICKER_GOAL_4;Goal:\nHave a meaningful conversation with the cat\n about life, the Universe and everything.;
+STICKER_0;Eliza: world's first chat bot\n\nSo cute <3<3<3;
+STICKER_1;Decision Tree\n=\nSmart Tree;
+STICKER_2;SIFT:\ngood for\nrecognizing shapes;
+STICKER_3;Perceptrons:\n1. Good for pictures\n2. Grampa prolly used it;
+STICKER_4;Random forest\n>\nDecision tree\n\n(get in shop?);
+STICKER_5;Genetic algorithm:\n1. can do stuff,\n2. very hard to teach :(;
+STICKER_6;Gradient descent:\nlife coach for neural networks;
+STICKER_7;RNN:\nThis bad node\ncan write a book;
+STICKER_8;If you can read this,\nyou've almost finished\nthe game;
+STICKER_9;Bid data == Big mess\n¯\_(?)_/¯;
+STICKER_10;1111111111111115;
+STICKER_11;1111111111111116;
+STICKER_12;1111111111111117;
+STICKER_13;1111111111111118;
+STICKER_14;1111111111111119;
+STICKER_15;1111111111111120;
+STARTUP_PROFIT_LEGEND;<color=#53cf67>Profit</color> / <color=#f05f4a>Loss</color>;
+STARTUP_USERS_LEGEND;<color=#ffbd18>Proc.</color> / <color=#f05f4a>Not proc.</color>;
+HYPE;HYPE;
+COMPBALANCEBODY;The number on the right indicates company's total funds\n\nIf a startup runs out of funds, it ceases to exist\n\nNext to it, you can see hype indicator: while a startup is on hype it attracts huge amounts of user attention\n\nBut it will wear off, eventually, so don't miss the moment when this bar turns grey;
+FORUM_MESSAGE35_1;Hi friends, its me again. @he11R@iZ3R, thx for those jobs, I can now afford a meal almost daily! but I need a kickbutt video card to proceed with my task. Ergo, need more moneyz. Am I ready for a more hardcore job maybe?;
+FORUM_MESSAGE35_2;Lil' coders grow up so fast... No problemo my duderino, I'll send some more contracts your way, with bigger data too. Beware: in these tasks, you're allowed to make some mistakes, but they're way more tricky to crack;
+FORUM_MESSAGE35_3;how so?;
+FORUM_MESSAGE35_4;this is real life data science for you! corrupted data, incorrect data, useless data... when it comes to big numbers, it's not about being 100% correct, it's about gettin the job done, sonny;
+FORUM_HEADER35;LVL up maybe?;
+FORUM_QUERY35;need harder ML job;
+LEARN_BLOCK35;Continue;
+TUTORIAL_ACCURACY_LEARNT;Training: Accuracy;
+ZOOM_CONTROL;Zoom;
+DRAG_CONSTR_AREA_CONTROL;Dragging construction area;
+TAB;TAB;
+TAB_DESCR;Center view;
+DRAG_GROUP_NODES;Alternate Drag and Drop;
+SAVE_INFO_OBJ;Info;
+ENTER_SAVE_NAME;Enter save name:;
+WRITE_SAVE_BUTTON;Write;
+WRITING_NEW_SAVE;Writing new save;
+REWRITING_SAVE;Rewriting existing save;
+DOOMSHOP;'MooD' Poster;
+DOOMDESCR;DQDDI! ;
+BACKPROPAGANDASHOP;Backpropaganda' Poster;
+BACKPROPAGANDADESCR;Data Scientists of the World, Unite!;
+CREDITS_DEVELOPERS;Tired yet proud developers;
+CREDITS_BETATESTERS;Glorious beta testers;
+CREDITS_ELITETESTERS;Hardcore elite beta testers;
+CREDITS_MODERATORS;Meticulous moderators;
+CREDITS_PRE_ALPHA_BUY;Courageous pre-alpha owners;
+CREDITS_TEACHERS;Inspiring teachers;
+CREDITS_STREAMERS;Spectacular influencers;
+CREDITS_OTHERS;Assorted heroes;
+OUTRO_BUTTON;Credits;
+ATTENTIONEXIT;Are you sure you want to quit to the main menu?\nYour progress will be saved automatically;
+CREDITS_FRIENDS;Helping friends;
+FINISHC_BRONZE_0;Since the dawn of times our kind was honored and respected by humans.;
+FINISHC_BRONZE_1;Since the dawn of times our kind was honored and respected by humans. But Dark Ages came and people forgot their true allies.;
+FINISHC_BRONZE_2;Since the dawn of times our kind was honored and respected by humans. But Dark Ages came and people forgot their true allies. Now we’re together again, but do not understand each other.;
+FINISHC_BRONZE_3;Since the dawn of times our kind was honored and respected by humans. But Dark Ages came and people forgot their true allies. Now we’re together again, but do not understand each other. We’ve been trying to establish contact;
+FINISHC_BRONZE_4;Since the dawn of times our kind was honored and respected by humans. But Dark Ages came and people forgot their true allies. Now we’re together again, but do not understand each other. We’ve been trying to establish contact: we used sounds, pantomimes, we’ve been even recording tutorial videos!;
+FINISHC_BRONZE_5;Since the dawn of times our kind was honored and respected by humans. But Dark Ages came and people forgot their true allies. Now we’re together again, but do not understand each other. We’ve been trying to establish contact: we used sounds, pantomimes, we’ve been even recording tutorial videos! And after centuries of efforts...;
+TO_SHOP;Go to shop;
+LATER;Later;
+DLL_START_TUTORIAL_TITLE;DLL;
+DLL_START_TUTORIAL_BODY;It looks like you feel confident enough about how the schemes work in general\n\nIt's time to go nuts and start making real magic!;
+STARTUPS_START_TUTORIAL_TITLE;Startups;
+STARTUPS_START_TUTORIAL_BODY;"Working for ""the man"" feels too easy, boring or soul-sucking?\n\nAim for the sky and become a CTO of a startup!\n\nIn the world of savage market laws it's either sink or swim!\n\nWill you get rich or bite the dust? It's worth trying anyway";
+FINISHC_BRONZE_0;They’ve tried…;
+FINISHC_BRONZE_1;They’ve tried… They’ve almost made it!;
+FINISHC_BRONZE_2;They’ve tried… They’ve almost made it! Of course, we only managed to make them understand the simplest commands.;
+FINISHC_BRONZE_3;They’ve tried… They’ve almost made it! Of course, we only managed to make them understand the simplest commands. But that’s a start!;
+FINISHC_BRONZE_4;They’ve tried… They’ve almost made it! Of course, we only managed to make them understand the simplest commands. But that’s a start! Now we can only hope that maybe;
+FINISHC_BRONZE_5;They’ve tried… They’ve almost made it! Of course, we only managed to make them understand the simplest commands. But that’s a start! Now we can only hope that maybe, in time, humans will learn to understand more complicated matters!;
+FINISHC_BRONZE_0;After all those years we can work side by side yet again!;
+FINISHC_BRONZE_1;After all those years we can work side by side yet again! We’ve managed to make life on Earth better for cats and humans!;
+FINISHC_BRONZE_2;After all those years we can work side by side yet again! We’ve managed to make life on Earth better for cats and humans! We’ve achieved it all.;
+FINISHC_BRONZE_3;After all those years we can work side by side yet again! We’ve managed to make life on Earth better for cats and humans! We’ve achieved it all.;
+FINISHC_BRONZE_4;After all those years we can work side by side yet again! We’ve managed to make life on Earth better for cats and humans! We’ve achieved it all. There’s nothing left for us to do on this planet.;
+FINISHC_BRONZE_5;After all those years we can work side by side yet again! We’ve managed to make life on Earth better for cats and humans! We’ve achieved it all. There’s nothing left for us to do on this planet. But there’s always something to dream of!;
+FINISHC_BRONZE_0;Planets!;
+FINISHC_BRONZE_1;Planets! Shiny marbles on the dark blanket of the nocturnal sky!;
+FINISHC_BRONZE_2;Planets! Shiny marbles on the dark blanket of the nocturnal sky! We’ve always wanted to poke it with a paw, to see if they’re fuzzy!;
+FINISHC_BRONZE_3;Planets! Shiny marbles on the dark blanket of the nocturnal sky! We’ve always wanted to poke it with a paw, to see if they’re fuzzy! By an unknown reason, humans have also been showing interest in planets...;
+FINISHC_BRONZE_4;Planets! Shiny marbles on the dark blanket of the nocturnal sky! We’ve always wanted to poke it with a paw, to see if they’re fuzzy! By an unknown reason, humans have also been showing interest in planets... Not sure why, but now our dreams are finally in line.;
+FINISHC_BRONZE_5;Planets! Shiny marbles on the dark blanket of the nocturnal sky! We’ve always wanted to poke it with a paw, to see if they’re fuzzy! By an unknown reason, humans have also been showing interest in planets... Not sure why, but now our dreams are finally in line. Our possibilities, combined, are infinite!;
+CMD+V;Command+V;
+CMD+C;Command+C;
+CMD+SHIFT+V;Command+Shift+V;
+CMD+A;Command+A;
+CMD+Y;Command+Y;
+CMD+Z;Command+Z;
+SHIFT+;Shift +;
+IMPROVEAIMFROM;cykablin@cat.meow;
+IMPROVEAIMT;Improve my aim;
+IMPROVEAIMSHORTT;Improve my aim;
+IMPROVEAIM;Hey there I got a problem: I want to own at video games but I kinda suck at them. Shouldnt be a problem in the modern world of technologies, right? All I need you to do is to write sort of an aiming program for Handzone character in Overlook online shooter. Don't blame me, you just can't compete with modern day schoolchildren and their stupid young people reflexes! I plan to solve this problem like an adult: using the money I've earned and morally grey schemes I've adopted during the sad and painful process of growing up. Yay to me!;
+PREDICMARSFROM;futureisnow@cat.meow;
+PREDICMARSAIMT;Predicting Mars;
+PREDICMARSSHORTT;Predicting Mars;
+PREDICMARSAIM;Greetings, man of the present! I represent a foundation that predicts future. Unfortunately, we're not good at predicting the future without the help of modern technology. So we suggest you do the predicting part for us, so we could present it on various conferences, accept awards and totally profit of your knowledge for a fixed cost of your work. We want you to help us write an algorithm which will predict the total amount of people, cats and data scientists in the world in the next 100 years so we could evaluate the necessity of colonizing Mars.;
+DISSIDENTTRACKFROM;legitimateruler@cat.meow;
+DISSIDENTTRACKT;Dissident-friendly tracking system;
+DISSIDENTTRACKSHORTT;Dissident-friendly tracking system;
+DISSIDENTTRACKAIM;"Flourish and prosper, respected programmer!\nWe represent our glorious democratic leader, Admiral General President Prime Minister Ali-Baboon-Petrov-Boshi. In his infinite wisdom, President Prime Minister is in need of your assistance: you must create and maintain a system that would process the recordings of kitchen-talks of our beloved government critics. Admiral General desires to know what they think, so he could know which of them are worthy of being sent to our country's famous recreational camps. We will pay you a share from each individual who joins our national healthcare program by reference from your algorithm!\n\nOne last detail: you must only use technologies developed in our country. It might no be as modern as those you're used to, but we despise your Western technologies and wish you all slow and painful death.\n\nHave a nice day, we look forward to hearing from you!";
+WEATHERPREDICAPPFROM;bestspaandresort@cat.meow;
+WEATHERPREDICAPPT;Weather predicting app;
+WEATHERPREDICAPPSHORTT;Weather predicting app;
+WEATHERPREDICAPPAIM;"Dear sir or madam,\n\nWe invite you to join our startup which is going to be huge on one small but promising market. We're living on a subarctic island in which we see a potential for turning into a luxurious spa resort (this is a second project of our company). Unfortunately, our location implies a rather cranky weather: it changes each 15 minutes from ice storms, to thunderstorms. People sometimes get blown off the island or get nasty frostbites... No serious injuries yet, but it complicates the marketing of an aspiring spa resort drastically!\n\nThat said, we need an algorithm which would be able to predict weather's next twist based on meteorological parameters. If we are able to predict it, we would be able to recommend our island's dwellers proper measures to cope with nature's surprises. Heavy kettlebells for walking in the wind might be a great option to offer our clients!";
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
